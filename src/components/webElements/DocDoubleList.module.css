@@ -1,0 +1,33 @@
+.listParent{
+    display: flex;
+    flex-flow: row wrap;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.listChild{
+    align-self: auto;
+}
+.listChild:first-child{
+   padding-right: 20px;
+}
+.listChild h2{
+    font-size: 2rem;
+}
+
+
+@media (max-width: 996px)and (min-width: 750px){
+    .listChild{
+        width: 50%;
+    }
+}
+@media (max-width: 1250px)and (min-width: 997px){
+    .listChild{
+        width: 100%;
+    }
+}
+@media (min-width: 1250px){
+    .listChild{
+        width: 50%;
+    }
+}
