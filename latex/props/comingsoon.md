@@ -1,0 +1,1 @@
+# 📄 Dokumentklasse erklärt (Kommt bald)

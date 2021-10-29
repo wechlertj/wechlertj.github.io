@@ -29,7 +29,7 @@ module.exports = {
         
         },
        // {to: 'sammlung', label: 'Formelsammlung', position: 'left'},
-        {to: 'help', label: 'Hilfe', position: 'left'},
+       // {to: 'help', label: 'Hilfe', position: 'left'},
         {
           to: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -41,17 +41,17 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          /*title: 'Docs',
           items: [
             {
               label: 'LaTeX',
               to: 'latex/uebersicht',
             },
-            {
+            /*{
               label: 'Formelsammlung',
               to: 'sammlung',
             },
-          ],
+         ],*/
         },
         {
           title: 'Community',
@@ -69,10 +69,6 @@ module.exports = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
