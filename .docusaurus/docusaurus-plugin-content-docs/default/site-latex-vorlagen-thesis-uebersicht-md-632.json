@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/thesis/uebersicht",
+  "id": "vorlagen/thesis/uebersicht",
+  "title": "uebersicht",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/uebersicht.md",
+  "sourceDirName": "vorlagen/thesis",
+  "slug": "/vorlagen/thesis/uebersicht",
+  "permalink": "/latex/vorlagen/thesis/uebersicht",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/thesis/uebersicht.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

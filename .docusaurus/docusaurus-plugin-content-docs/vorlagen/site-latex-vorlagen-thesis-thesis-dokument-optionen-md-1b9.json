@@ -1,0 +1,22 @@
+{
+  "unversionedId": "thesis/thesis_dokument_optionen",
+  "id": "thesis/thesis_dokument_optionen",
+  "title": "thesis_dokument_optionen",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/thesis_dokument_optionen.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/thesis_dokument_optionen",
+  "permalink": "/vorlagen/thesis/thesis_dokument_optionen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "latex",
+  "previous": {
+    "title": "thesis_uebersicht",
+    "permalink": "/vorlagen/thesis/thesis_uebersicht"
+  },
+  "next": {
+    "title": "pakete",
+    "permalink": "/vorlagen/thesis/pakete"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "text",
+  "id": "text",
+  "title": "text",
+  "description": "a",
+  "source": "@site/grundlagen/text.md",
+  "sourceDirName": ".",
+  "slug": "/text",
+  "permalink": "/grundlagen/text",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "Dateistruktur",
+    "permalink": "/grundlagen/dateistruktur"
+  },
+  "next": {
+    "title": "umgebungen",
+    "permalink": "/grundlagen/umgebungen"
+  }
+}

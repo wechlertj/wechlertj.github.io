@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/anwendung/titleseite",
+  "id": "vorlagen/anwendung/titleseite",
+  "title": "titleseite",
+  "description": "",
+  "source": "@site/latex/vorlagen/anwendung/titleseite.md",
+  "sourceDirName": "vorlagen/anwendung",
+  "slug": "/vorlagen/anwendung/titleseite",
+  "permalink": "/latex/vorlagen/anwendung/titleseite",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/anwendung/titleseite.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

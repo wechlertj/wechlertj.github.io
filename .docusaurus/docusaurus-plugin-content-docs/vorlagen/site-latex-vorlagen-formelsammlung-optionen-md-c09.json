@@ -1,0 +1,13 @@
+{
+  "unversionedId": "formelsammlung/optionen",
+  "id": "formelsammlung/optionen",
+  "title": "optionen",
+  "description": "",
+  "source": "@site/latex/vorlagen/formelsammlung/optionen.md",
+  "sourceDirName": "formelsammlung",
+  "slug": "/formelsammlung/optionen",
+  "permalink": "/vorlagen/formelsammlung/optionen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

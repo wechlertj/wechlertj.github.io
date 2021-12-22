@@ -1,0 +1,22 @@
+{
+  "unversionedId": "figure",
+  "id": "figure",
+  "title": "Abbildungen",
+  "description": "",
+  "source": "@site/latex/grundlagen/figure.md",
+  "sourceDirName": ".",
+  "slug": "/figure",
+  "permalink": "/grundlagen/figure",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "umgebungen",
+    "permalink": "/grundlagen/umgebungen"
+  },
+  "next": {
+    "title": "Tabellen",
+    "permalink": "/grundlagen/table"
+  }
+}

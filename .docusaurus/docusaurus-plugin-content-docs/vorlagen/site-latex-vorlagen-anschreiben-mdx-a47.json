@@ -1,0 +1,22 @@
+{
+  "unversionedId": "anschreiben",
+  "id": "anschreiben",
+  "title": "🔜 Anschreiben",
+  "description": "",
+  "source": "@site/latex/vorlagen/anschreiben.mdx",
+  "sourceDirName": ".",
+  "slug": "/anschreiben",
+  "permalink": "/vorlagen/anschreiben",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "latex",
+  "previous": {
+    "title": "🔜 Lebenslauf",
+    "permalink": "/vorlagen/lebenslauf"
+  },
+  "next": {
+    "title": "🔜 Brief",
+    "permalink": "/vorlagen/brief"
+  }
+}

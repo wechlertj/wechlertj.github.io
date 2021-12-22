@@ -1,0 +1,19 @@
+{
+  "unversionedId": "correct_typography",
+  "id": "correct_typography",
+  "title": "correct_typography",
+  "description": "a",
+  "source": "@site/latex/grundlagen/correct_typography.md",
+  "sourceDirName": ".",
+  "slug": "/correct_typography",
+  "permalink": "/latex/correct_typography",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/correct_typography.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "Seitenlayout",
+    "permalink": "/latex/layout"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "unversionedId": "praesentation/pakete",
+  "id": "praesentation/pakete",
+  "title": "pakete",
+  "description": "",
+  "source": "@site/latex/vorlagen/praesentation/pakete.md",
+  "sourceDirName": "praesentation",
+  "slug": "/praesentation/pakete",
+  "permalink": "/vorlagen/praesentation/pakete",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

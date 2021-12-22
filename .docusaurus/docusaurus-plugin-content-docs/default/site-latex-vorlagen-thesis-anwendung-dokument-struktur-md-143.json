@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/thesis/anwendung/dokument_struktur",
+  "id": "vorlagen/thesis/anwendung/dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/anwendung/dokument_struktur.md",
+  "sourceDirName": "vorlagen/thesis/anwendung",
+  "slug": "/vorlagen/thesis/anwendung/dokument_struktur",
+  "permalink": "/latex/vorlagen/thesis/anwendung/dokument_struktur",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/thesis/anwendung/dokument_struktur.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

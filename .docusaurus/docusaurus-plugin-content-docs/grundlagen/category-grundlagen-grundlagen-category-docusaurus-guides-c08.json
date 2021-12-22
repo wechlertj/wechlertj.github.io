@@ -1,0 +1,16 @@
+{
+  "title": "Docusaurus Guides",
+  "description": "Learn about the most important Docusaurus concepts!",
+  "slug": "math",
+  "permalink": "/grundlagen/math",
+  "navigation": {
+    "previous": {
+      "title": "listings",
+      "permalink": "/grundlagen/listings"
+    },
+    "next": {
+      "title": "math",
+      "permalink": "/grundlagen/math"
+    }
+  }
+}

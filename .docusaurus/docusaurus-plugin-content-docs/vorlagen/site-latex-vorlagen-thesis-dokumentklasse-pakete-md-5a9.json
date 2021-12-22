@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/dokumentklasse/pakete",
+  "id": "thesis/dokumentklasse/pakete",
+  "title": "pakete",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/dokumentklasse/pakete.md",
+  "sourceDirName": "thesis/dokumentklasse",
+  "slug": "/thesis/dokumentklasse/pakete",
+  "permalink": "/vorlagen/thesis/dokumentklasse/pakete",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

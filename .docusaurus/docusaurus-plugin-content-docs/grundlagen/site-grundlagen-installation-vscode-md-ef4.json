@@ -1,0 +1,22 @@
+{
+  "unversionedId": "installation-vscode",
+  "id": "installation-vscode",
+  "title": "installation-vscode",
+  "description": "",
+  "source": "@site/grundlagen/installation-vscode.md",
+  "sourceDirName": ".",
+  "slug": "/installation-vscode",
+  "permalink": "/grundlagen/installation-vscode",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "installation-texmaker-texstudio",
+    "permalink": "/grundlagen/installation-texmaker-texstudio"
+  },
+  "next": {
+    "title": "Dateistruktur",
+    "permalink": "/grundlagen/dateistruktur"
+  }
+}

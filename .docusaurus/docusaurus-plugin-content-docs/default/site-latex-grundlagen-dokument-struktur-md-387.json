@@ -1,0 +1,14 @@
+{
+  "unversionedId": "dokument_struktur",
+  "id": "dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "a",
+  "source": "@site/latex/grundlagen/dokument_struktur.md",
+  "sourceDirName": ".",
+  "slug": "/dokument_struktur",
+  "permalink": "/latex/dokument_struktur",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/dokument_struktur.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

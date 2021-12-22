@@ -1,0 +1,18 @@
+{
+  "unversionedId": "einleitung",
+  "id": "einleitung",
+  "title": "Einleitung",
+  "description": "Ziel ?",
+  "source": "@site/latex/grundlagen/einleitung.md",
+  "sourceDirName": ".",
+  "slug": "/einleitung",
+  "permalink": "/grundlagen/einleitung",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "next": {
+    "title": "installation",
+    "permalink": "/grundlagen/installation"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/thesis/anwendung/funktionsuebersicht",
+  "id": "vorlagen/thesis/anwendung/funktionsuebersicht",
+  "title": "funktionsuebersicht",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/anwendung/funktionsuebersicht.md",
+  "sourceDirName": "vorlagen/thesis/anwendung",
+  "slug": "/vorlagen/thesis/anwendung/funktionsuebersicht",
+  "permalink": "/latex/vorlagen/thesis/anwendung/funktionsuebersicht",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/thesis/anwendung/funktionsuebersicht.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

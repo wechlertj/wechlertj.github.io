@@ -1,0 +1,13 @@
+{
+  "unversionedId": "praesentation/optionen",
+  "id": "praesentation/optionen",
+  "title": "optionen",
+  "description": "",
+  "source": "@site/latex/vorlagen/praesentation/optionen.md",
+  "sourceDirName": "praesentation",
+  "slug": "/praesentation/optionen",
+  "permalink": "/vorlagen/praesentation/optionen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

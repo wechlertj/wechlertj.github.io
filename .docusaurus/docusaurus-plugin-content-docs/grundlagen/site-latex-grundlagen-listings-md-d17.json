@@ -1,0 +1,22 @@
+{
+  "unversionedId": "listings",
+  "id": "listings",
+  "title": "Programmcodes",
+  "description": "",
+  "source": "@site/latex/grundlagen/listings.md",
+  "sourceDirName": ".",
+  "slug": "/listings",
+  "permalink": "/grundlagen/listings",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "Gleichungen",
+    "permalink": "/grundlagen/equations"
+  },
+  "next": {
+    "title": "bibliography",
+    "permalink": "/grundlagen/bibliography"
+  }
+}

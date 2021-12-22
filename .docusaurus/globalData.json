@@ -1,0 +1,270 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "grundlagen": {
+      "path": "/grundlagen",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/grundlagen",
+          "mainDocId": "einleitung",
+          "docs": [
+            {
+              "id": "bibliography",
+              "path": "/grundlagen/bibliography",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "correct_typography",
+              "path": "/grundlagen/correct_typography",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "dateistruktur",
+              "path": "/grundlagen/dateistruktur",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "dokument_struktur",
+              "path": "/grundlagen/dokument_struktur"
+            },
+            {
+              "id": "einleitung",
+              "path": "/grundlagen/einleitung",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "equations",
+              "path": "/grundlagen/equations",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "figure",
+              "path": "/grundlagen/figure",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "installation",
+              "path": "/grundlagen/installation",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "installation-mactex",
+              "path": "/grundlagen/installation-mactex",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "installation-miktex",
+              "path": "/grundlagen/installation-miktex",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "installation-texlive",
+              "path": "/grundlagen/installation-texlive",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "installation-texmaker-texstudio",
+              "path": "/grundlagen/installation-texmaker-texstudio",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "installation-vscode",
+              "path": "/grundlagen/installation-vscode",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "layout",
+              "path": "/grundlagen/layout",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "listings",
+              "path": "/grundlagen/listings",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "mathematik",
+              "path": "/grundlagen/mathematik",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "referenz",
+              "path": "/grundlagen/referenz",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "table",
+              "path": "/grundlagen/table",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "text",
+              "path": "/grundlagen/text",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "umgebungen",
+              "path": "/grundlagen/umgebungen",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "units",
+              "path": "/grundlagen/units"
+            },
+            {
+              "id": "verzeichnisse",
+              "path": "/grundlagen/verzeichnisse",
+              "sidebar": "grundlagen"
+            },
+            {
+              "id": "wissenschaftlich",
+              "path": "/grundlagen/wissenschaftlich",
+              "sidebar": "grundlagen"
+            }
+          ]
+        }
+      ]
+    },
+    "vorlagen": {
+      "path": "/vorlagen",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/vorlagen",
+          "mainDocId": "uebersicht",
+          "docs": [
+            {
+              "id": "anschreiben",
+              "path": "/vorlagen/anschreiben",
+              "sidebar": "latex"
+            },
+            {
+              "id": "brief",
+              "path": "/vorlagen/brief",
+              "sidebar": "latex"
+            },
+            {
+              "id": "formelsammlung/dokument_struktur",
+              "path": "/vorlagen/formelsammlung/dokument_struktur"
+            },
+            {
+              "id": "formelsammlung/frames",
+              "path": "/vorlagen/formelsammlung/frames"
+            },
+            {
+              "id": "formelsammlung/funktionsuebersicht",
+              "path": "/vorlagen/formelsammlung/funktionsuebersicht"
+            },
+            {
+              "id": "formelsammlung/optionen",
+              "path": "/vorlagen/formelsammlung/optionen"
+            },
+            {
+              "id": "formelsammlung/pakete",
+              "path": "/vorlagen/formelsammlung/pakete"
+            },
+            {
+              "id": "formelsammlung/uebersicht",
+              "path": "/vorlagen/formelsammlung/uebersicht",
+              "sidebar": "latex"
+            },
+            {
+              "id": "hand_formelsammlung",
+              "path": "/vorlagen/hand_formelsammlung",
+              "sidebar": "latex"
+            },
+            {
+              "id": "lebenslauf",
+              "path": "/vorlagen/lebenslauf",
+              "sidebar": "latex"
+            },
+            {
+              "id": "praesentation/dokument_struktur",
+              "path": "/vorlagen/praesentation/dokument_struktur"
+            },
+            {
+              "id": "praesentation/frames",
+              "path": "/vorlagen/praesentation/frames"
+            },
+            {
+              "id": "praesentation/funktionsuebersicht",
+              "path": "/vorlagen/praesentation/funktionsuebersicht"
+            },
+            {
+              "id": "praesentation/optionen",
+              "path": "/vorlagen/praesentation/optionen"
+            },
+            {
+              "id": "praesentation/pakete",
+              "path": "/vorlagen/praesentation/pakete"
+            },
+            {
+              "id": "praesentation/uebersicht",
+              "path": "/vorlagen/praesentation/uebersicht",
+              "sidebar": "latex"
+            },
+            {
+              "id": "tagebuch/anwendung/dokument_struktur",
+              "path": "/vorlagen/tagebuch/anwendung/dokument_struktur"
+            },
+            {
+              "id": "tagebuch/anwendung/funktionsuebersicht",
+              "path": "/vorlagen/tagebuch/anwendung/funktionsuebersicht"
+            },
+            {
+              "id": "tagebuch/optionen",
+              "path": "/vorlagen/tagebuch/optionen"
+            },
+            {
+              "id": "tagebuch/pakete",
+              "path": "/vorlagen/tagebuch/pakete"
+            },
+            {
+              "id": "tagebuch/uebersicht",
+              "path": "/vorlagen/tagebuch/uebersicht",
+              "sidebar": "latex"
+            },
+            {
+              "id": "thesis/anwendnung",
+              "path": "/vorlagen/thesis/anwendnung"
+            },
+            {
+              "id": "thesis/dokumentenklasse",
+              "path": "/vorlagen/thesis/dokumentenklasse"
+            },
+            {
+              "id": "thesis/funktionsuebersicht",
+              "path": "/vorlagen/thesis/funktionsuebersicht"
+            },
+            {
+              "id": "thesis/optionen",
+              "path": "/vorlagen/thesis/optionen"
+            },
+            {
+              "id": "thesis/pakete",
+              "path": "/vorlagen/thesis/pakete"
+            },
+            {
+              "id": "thesis/titleseite",
+              "path": "/vorlagen/thesis/titleseite"
+            },
+            {
+              "id": "thesis/uebersicht",
+              "path": "/vorlagen/thesis/uebersicht",
+              "sidebar": "latex"
+            },
+            {
+              "id": "uebersicht",
+              "path": "/vorlagen/uebersicht",
+              "sidebar": "latex"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

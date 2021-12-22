@@ -1,0 +1,22 @@
+{
+  "unversionedId": "einleitung",
+  "id": "einleitung",
+  "title": "Einleitung",
+  "description": "Ziel ?",
+  "source": "@site/grundlagen/einleitung.md",
+  "sourceDirName": ".",
+  "slug": "/einleitung",
+  "permalink": "/grundlagen/einleitung",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "Übersicht",
+    "permalink": "/grundlagen/uebersicht"
+  },
+  "next": {
+    "title": "installation",
+    "permalink": "/grundlagen/installation"
+  }
+}

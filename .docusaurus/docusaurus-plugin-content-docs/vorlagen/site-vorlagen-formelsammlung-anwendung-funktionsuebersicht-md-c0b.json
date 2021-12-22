@@ -1,0 +1,13 @@
+{
+  "unversionedId": "formelsammlung/anwendung/funktionsuebersicht",
+  "id": "formelsammlung/anwendung/funktionsuebersicht",
+  "title": "funktionsuebersicht",
+  "description": "",
+  "source": "@site/vorlagen/formelsammlung/anwendung/funktionsuebersicht.md",
+  "sourceDirName": "formelsammlung/anwendung",
+  "slug": "/formelsammlung/anwendung/funktionsuebersicht",
+  "permalink": "/vorlagen/formelsammlung/anwendung/funktionsuebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

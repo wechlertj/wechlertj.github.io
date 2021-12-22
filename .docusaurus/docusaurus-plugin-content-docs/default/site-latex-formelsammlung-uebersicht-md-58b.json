@@ -1,0 +1,14 @@
+{
+  "unversionedId": "formelsammlung/uebersicht",
+  "id": "formelsammlung/uebersicht",
+  "title": "uebersicht",
+  "description": "",
+  "source": "@site/latex/formelsammlung/uebersicht.md",
+  "sourceDirName": "formelsammlung",
+  "slug": "/formelsammlung/uebersicht",
+  "permalink": "/latex/formelsammlung/uebersicht",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/formelsammlung/uebersicht.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

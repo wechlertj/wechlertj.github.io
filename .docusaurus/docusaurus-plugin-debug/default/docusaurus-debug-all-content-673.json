@@ -1,0 +1,1390 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "grundlagen": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/grundlagen",
+          "tagsPath": "/grundlagen/tags",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/tim-jonaswechler/Documents/Mein_Leben/2_Projekte/github/wechlertj.github.io/sidebarsGrundlagen.js",
+          "contentPath": "/Users/tim-jonaswechler/Documents/Mein_Leben/2_Projekte/github/wechlertj.github.io/latex/grundlagen",
+          "contentPathLocalized": "/Users/tim-jonaswechler/Documents/Mein_Leben/2_Projekte/github/wechlertj.github.io/i18n/en/docusaurus-plugin-content-docs-grundlagen/current",
+          "docs": [
+            {
+              "unversionedId": "bibliography",
+              "id": "bibliography",
+              "title": "bibliography",
+              "description": "a",
+              "source": "@site/latex/grundlagen/bibliography.md",
+              "sourceDirName": ".",
+              "slug": "/bibliography",
+              "permalink": "/grundlagen/bibliography",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "Programmcodes",
+                "permalink": "/grundlagen/listings"
+              },
+              "next": {
+                "title": "referenz",
+                "permalink": "/grundlagen/referenz"
+              }
+            },
+            {
+              "unversionedId": "correct_typography",
+              "id": "correct_typography",
+              "title": "correct_typography",
+              "description": "a",
+              "source": "@site/latex/grundlagen/correct_typography.md",
+              "sourceDirName": ".",
+              "slug": "/correct_typography",
+              "permalink": "/grundlagen/correct_typography",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "Seitenlayout",
+                "permalink": "/grundlagen/layout"
+              },
+              "next": {
+                "title": "Wissenschaftliches Schreiben",
+                "permalink": "/grundlagen/wissenschaftlich"
+              }
+            },
+            {
+              "unversionedId": "dateistruktur",
+              "id": "dateistruktur",
+              "title": "Dateistruktur",
+              "description": "Die Preamble ist der Bereich, des LaTeX-Dokuments, der vor dem Befehl \\begin sich befindet.",
+              "source": "@site/latex/grundlagen/dateistruktur.mdx",
+              "sourceDirName": ".",
+              "slug": "/dateistruktur",
+              "permalink": "/grundlagen/dateistruktur",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "installation-vscode",
+                "permalink": "/grundlagen/installation-vscode"
+              },
+              "next": {
+                "title": "text",
+                "permalink": "/grundlagen/text"
+              }
+            },
+            {
+              "unversionedId": "dokument_struktur",
+              "id": "dokument_struktur",
+              "title": "dokument_struktur",
+              "description": "a",
+              "source": "@site/latex/grundlagen/dokument_struktur.md",
+              "sourceDirName": ".",
+              "slug": "/dokument_struktur",
+              "permalink": "/grundlagen/dokument_struktur",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "einleitung",
+              "id": "einleitung",
+              "title": "Einleitung",
+              "description": "Ziel ?",
+              "source": "@site/latex/grundlagen/einleitung.md",
+              "sourceDirName": ".",
+              "slug": "/einleitung",
+              "permalink": "/grundlagen/einleitung",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "next": {
+                "title": "installation",
+                "permalink": "/grundlagen/installation"
+              }
+            },
+            {
+              "unversionedId": "equations",
+              "id": "equations",
+              "title": "Gleichungen",
+              "description": "",
+              "source": "@site/latex/grundlagen/equations.md",
+              "sourceDirName": ".",
+              "slug": "/equations",
+              "permalink": "/grundlagen/equations",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "Tabellen",
+                "permalink": "/grundlagen/table"
+              },
+              "next": {
+                "title": "Programmcodes",
+                "permalink": "/grundlagen/listings"
+              }
+            },
+            {
+              "unversionedId": "figure",
+              "id": "figure",
+              "title": "Abbildungen",
+              "description": "",
+              "source": "@site/latex/grundlagen/figure.md",
+              "sourceDirName": ".",
+              "slug": "/figure",
+              "permalink": "/grundlagen/figure",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "umgebungen",
+                "permalink": "/grundlagen/umgebungen"
+              },
+              "next": {
+                "title": "Tabellen",
+                "permalink": "/grundlagen/table"
+              }
+            },
+            {
+              "unversionedId": "installation",
+              "id": "installation",
+              "title": "installation",
+              "description": "https://texwelt.de/fragen/11038/wie-installiere-ich-latex",
+              "source": "@site/latex/grundlagen/installation.mdx",
+              "sourceDirName": ".",
+              "slug": "/installation",
+              "permalink": "/grundlagen/installation",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "Einleitung",
+                "permalink": "/grundlagen/einleitung"
+              },
+              "next": {
+                "title": "installation-miktex",
+                "permalink": "/grundlagen/installation-miktex"
+              }
+            },
+            {
+              "unversionedId": "installation-mactex",
+              "id": "installation-mactex",
+              "title": "installation-mactex",
+              "description": "",
+              "source": "@site/latex/grundlagen/installation-mactex.md",
+              "sourceDirName": ".",
+              "slug": "/installation-mactex",
+              "permalink": "/grundlagen/installation-mactex",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "installation-texlive",
+                "permalink": "/grundlagen/installation-texlive"
+              },
+              "next": {
+                "title": "installation-texmaker-texstudio",
+                "permalink": "/grundlagen/installation-texmaker-texstudio"
+              }
+            },
+            {
+              "unversionedId": "installation-miktex",
+              "id": "installation-miktex",
+              "title": "installation-miktex",
+              "description": "",
+              "source": "@site/latex/grundlagen/installation-miktex.md",
+              "sourceDirName": ".",
+              "slug": "/installation-miktex",
+              "permalink": "/grundlagen/installation-miktex",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "installation",
+                "permalink": "/grundlagen/installation"
+              },
+              "next": {
+                "title": "installation-texlive",
+                "permalink": "/grundlagen/installation-texlive"
+              }
+            },
+            {
+              "unversionedId": "installation-texlive",
+              "id": "installation-texlive",
+              "title": "installation-texlive",
+              "description": "",
+              "source": "@site/latex/grundlagen/installation-texlive.md",
+              "sourceDirName": ".",
+              "slug": "/installation-texlive",
+              "permalink": "/grundlagen/installation-texlive",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "installation-miktex",
+                "permalink": "/grundlagen/installation-miktex"
+              },
+              "next": {
+                "title": "installation-mactex",
+                "permalink": "/grundlagen/installation-mactex"
+              }
+            },
+            {
+              "unversionedId": "installation-texmaker-texstudio",
+              "id": "installation-texmaker-texstudio",
+              "title": "installation-texmaker-texstudio",
+              "description": "",
+              "source": "@site/latex/grundlagen/installation-texmaker-texstudio.md",
+              "sourceDirName": ".",
+              "slug": "/installation-texmaker-texstudio",
+              "permalink": "/grundlagen/installation-texmaker-texstudio",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "installation-mactex",
+                "permalink": "/grundlagen/installation-mactex"
+              },
+              "next": {
+                "title": "installation-vscode",
+                "permalink": "/grundlagen/installation-vscode"
+              }
+            },
+            {
+              "unversionedId": "installation-vscode",
+              "id": "installation-vscode",
+              "title": "installation-vscode",
+              "description": "",
+              "source": "@site/latex/grundlagen/installation-vscode.md",
+              "sourceDirName": ".",
+              "slug": "/installation-vscode",
+              "permalink": "/grundlagen/installation-vscode",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "installation-texmaker-texstudio",
+                "permalink": "/grundlagen/installation-texmaker-texstudio"
+              },
+              "next": {
+                "title": "Dateistruktur",
+                "permalink": "/grundlagen/dateistruktur"
+              }
+            },
+            {
+              "unversionedId": "layout",
+              "id": "layout",
+              "title": "Seitenlayout",
+              "description": "",
+              "source": "@site/latex/grundlagen/layout.md",
+              "sourceDirName": ".",
+              "slug": "/layout",
+              "permalink": "/grundlagen/layout",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "verzeichnisse",
+                "permalink": "/grundlagen/verzeichnisse"
+              },
+              "next": {
+                "title": "correct_typography",
+                "permalink": "/grundlagen/correct_typography"
+              }
+            },
+            {
+              "unversionedId": "listings",
+              "id": "listings",
+              "title": "Programmcodes",
+              "description": "",
+              "source": "@site/latex/grundlagen/listings.md",
+              "sourceDirName": ".",
+              "slug": "/listings",
+              "permalink": "/grundlagen/listings",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "Gleichungen",
+                "permalink": "/grundlagen/equations"
+              },
+              "next": {
+                "title": "bibliography",
+                "permalink": "/grundlagen/bibliography"
+              }
+            },
+            {
+              "unversionedId": "mathematik",
+              "id": "mathematik",
+              "title": "mathematik",
+              "description": "a",
+              "source": "@site/latex/grundlagen/mathematik.md",
+              "sourceDirName": ".",
+              "slug": "/mathematik",
+              "permalink": "/grundlagen/mathematik",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "text",
+                "permalink": "/grundlagen/text"
+              },
+              "next": {
+                "title": "umgebungen",
+                "permalink": "/grundlagen/umgebungen"
+              }
+            },
+            {
+              "unversionedId": "referenz",
+              "id": "referenz",
+              "title": "referenz",
+              "description": "",
+              "source": "@site/latex/grundlagen/referenz.md",
+              "sourceDirName": ".",
+              "slug": "/referenz",
+              "permalink": "/grundlagen/referenz",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "bibliography",
+                "permalink": "/grundlagen/bibliography"
+              },
+              "next": {
+                "title": "verzeichnisse",
+                "permalink": "/grundlagen/verzeichnisse"
+              }
+            },
+            {
+              "unversionedId": "table",
+              "id": "table",
+              "title": "Tabellen",
+              "description": "",
+              "source": "@site/latex/grundlagen/table.md",
+              "sourceDirName": ".",
+              "slug": "/table",
+              "permalink": "/grundlagen/table",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "Abbildungen",
+                "permalink": "/grundlagen/figure"
+              },
+              "next": {
+                "title": "Gleichungen",
+                "permalink": "/grundlagen/equations"
+              }
+            },
+            {
+              "unversionedId": "text",
+              "id": "text",
+              "title": "text",
+              "description": "a",
+              "source": "@site/latex/grundlagen/text.md",
+              "sourceDirName": ".",
+              "slug": "/text",
+              "permalink": "/grundlagen/text",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "Dateistruktur",
+                "permalink": "/grundlagen/dateistruktur"
+              },
+              "next": {
+                "title": "mathematik",
+                "permalink": "/grundlagen/mathematik"
+              }
+            },
+            {
+              "unversionedId": "umgebungen",
+              "id": "umgebungen",
+              "title": "umgebungen",
+              "description": "a",
+              "source": "@site/latex/grundlagen/umgebungen.md",
+              "sourceDirName": ".",
+              "slug": "/umgebungen",
+              "permalink": "/grundlagen/umgebungen",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "mathematik",
+                "permalink": "/grundlagen/mathematik"
+              },
+              "next": {
+                "title": "Abbildungen",
+                "permalink": "/grundlagen/figure"
+              }
+            },
+            {
+              "unversionedId": "units",
+              "id": "units",
+              "title": "(Physikalische) Einheiten verwenden",
+              "description": "",
+              "source": "@site/latex/grundlagen/units.md",
+              "sourceDirName": ".",
+              "slug": "/units",
+              "permalink": "/grundlagen/units",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "verzeichnisse",
+              "id": "verzeichnisse",
+              "title": "verzeichnisse",
+              "description": "",
+              "source": "@site/latex/grundlagen/verzeichnisse.md",
+              "sourceDirName": ".",
+              "slug": "/verzeichnisse",
+              "permalink": "/grundlagen/verzeichnisse",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "referenz",
+                "permalink": "/grundlagen/referenz"
+              },
+              "next": {
+                "title": "Seitenlayout",
+                "permalink": "/grundlagen/layout"
+              }
+            },
+            {
+              "unversionedId": "wissenschaftlich",
+              "id": "wissenschaftlich",
+              "title": "Wissenschaftliches Schreiben",
+              "description": "",
+              "source": "@site/latex/grundlagen/wissenschaftlich.md",
+              "sourceDirName": ".",
+              "slug": "/wissenschaftlich",
+              "permalink": "/grundlagen/wissenschaftlich",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "grundlagen",
+              "previous": {
+                "title": "correct_typography",
+                "permalink": "/grundlagen/correct_typography"
+              }
+            }
+          ],
+          "sidebars": {
+            "grundlagen": [
+              {
+                "type": "doc",
+                "id": "einleitung"
+              },
+              {
+                "type": "category",
+                "label": "Installation",
+                "link": {
+                  "type": "doc",
+                  "id": "installation"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "installation-miktex"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "installation-texlive"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "installation-mactex"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "installation-texmaker-texstudio"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "installation-vscode"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              },
+              {
+                "type": "doc",
+                "id": "dateistruktur"
+              },
+              {
+                "type": "doc",
+                "id": "text"
+              },
+              {
+                "type": "doc",
+                "id": "mathematik"
+              },
+              {
+                "type": "category",
+                "label": "Umgebungen",
+                "link": {
+                  "type": "doc",
+                  "id": "umgebungen"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "figure"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "table"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "equations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "listings"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              },
+              {
+                "type": "doc",
+                "id": "bibliography"
+              },
+              {
+                "type": "doc",
+                "id": "referenz"
+              },
+              {
+                "type": "doc",
+                "id": "verzeichnisse"
+              },
+              {
+                "type": "doc",
+                "id": "layout"
+              },
+              {
+                "type": "doc",
+                "id": "correct_typography"
+              },
+              {
+                "type": "doc",
+                "id": "wissenschaftlich"
+              }
+            ]
+          },
+          "mainDocId": "einleitung",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    },
+    "vorlagen": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/vorlagen",
+          "tagsPath": "/vorlagen/tags",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/tim-jonaswechler/Documents/Mein_Leben/2_Projekte/github/wechlertj.github.io/sidebarsVorlagen.js",
+          "contentPath": "/Users/tim-jonaswechler/Documents/Mein_Leben/2_Projekte/github/wechlertj.github.io/latex/vorlagen",
+          "contentPathLocalized": "/Users/tim-jonaswechler/Documents/Mein_Leben/2_Projekte/github/wechlertj.github.io/i18n/en/docusaurus-plugin-content-docs-vorlagen/current",
+          "docs": [
+            {
+              "unversionedId": "anschreiben",
+              "id": "anschreiben",
+              "title": "🔜 Anschreiben",
+              "description": "",
+              "source": "@site/latex/vorlagen/anschreiben.mdx",
+              "sourceDirName": ".",
+              "slug": "/anschreiben",
+              "permalink": "/vorlagen/anschreiben",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "latex",
+              "previous": {
+                "title": "🔜 Lebenslauf",
+                "permalink": "/vorlagen/lebenslauf"
+              },
+              "next": {
+                "title": "🔜 Brief",
+                "permalink": "/vorlagen/brief"
+              }
+            },
+            {
+              "unversionedId": "brief",
+              "id": "brief",
+              "title": "🔜 Brief",
+              "description": "",
+              "source": "@site/latex/vorlagen/brief.mdx",
+              "sourceDirName": ".",
+              "slug": "/brief",
+              "permalink": "/vorlagen/brief",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "latex",
+              "previous": {
+                "title": "🔜 Anschreiben",
+                "permalink": "/vorlagen/anschreiben"
+              }
+            },
+            {
+              "unversionedId": "formelsammlung/dokument_struktur",
+              "id": "formelsammlung/dokument_struktur",
+              "title": "dokument_struktur",
+              "description": "",
+              "source": "@site/latex/vorlagen/formelsammlung/dokument_struktur.md",
+              "sourceDirName": "formelsammlung",
+              "slug": "/formelsammlung/dokument_struktur",
+              "permalink": "/vorlagen/formelsammlung/dokument_struktur",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "formelsammlung/frames",
+              "id": "formelsammlung/frames",
+              "title": "frames",
+              "description": "",
+              "source": "@site/latex/vorlagen/formelsammlung/frames.md",
+              "sourceDirName": "formelsammlung",
+              "slug": "/formelsammlung/frames",
+              "permalink": "/vorlagen/formelsammlung/frames",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "formelsammlung/funktionsuebersicht",
+              "id": "formelsammlung/funktionsuebersicht",
+              "title": "funktionsuebersicht",
+              "description": "",
+              "source": "@site/latex/vorlagen/formelsammlung/funktionsuebersicht.md",
+              "sourceDirName": "formelsammlung",
+              "slug": "/formelsammlung/funktionsuebersicht",
+              "permalink": "/vorlagen/formelsammlung/funktionsuebersicht",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "formelsammlung/optionen",
+              "id": "formelsammlung/optionen",
+              "title": "optionen",
+              "description": "",
+              "source": "@site/latex/vorlagen/formelsammlung/optionen.md",
+              "sourceDirName": "formelsammlung",
+              "slug": "/formelsammlung/optionen",
+              "permalink": "/vorlagen/formelsammlung/optionen",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "formelsammlung/pakete",
+              "id": "formelsammlung/pakete",
+              "title": "pakete",
+              "description": "",
+              "source": "@site/latex/vorlagen/formelsammlung/pakete.md",
+              "sourceDirName": "formelsammlung",
+              "slug": "/formelsammlung/pakete",
+              "permalink": "/vorlagen/formelsammlung/pakete",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "formelsammlung/uebersicht",
+              "id": "formelsammlung/uebersicht",
+              "title": "🔜 Formelsammlung",
+              "description": "",
+              "source": "@site/latex/vorlagen/formelsammlung/uebersicht.md",
+              "sourceDirName": "formelsammlung",
+              "slug": "/formelsammlung/uebersicht",
+              "permalink": "/vorlagen/formelsammlung/uebersicht",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "latex",
+              "previous": {
+                "title": "🔜 Präsentation",
+                "permalink": "/vorlagen/praesentation/uebersicht"
+              },
+              "next": {
+                "title": "👨‍🎓 Handschriftliche Formelsammlung",
+                "permalink": "/vorlagen/hand_formelsammlung"
+              }
+            },
+            {
+              "unversionedId": "hand_formelsammlung",
+              "id": "hand_formelsammlung",
+              "title": "👨‍🎓 Handschriftliche Formelsammlung",
+              "description": "Dieses LaTeX Dokument kann sowhl eine gepunktete als auch eine karriertes PDF erstellen. Ziel hier bei ist es, eine Druckvorlage zu generieren, die als Schreibhilfe für handgeschrieben Formelsammlungen diene soll.",
+              "source": "@site/latex/vorlagen/hand_formelsammlung.mdx",
+              "sourceDirName": ".",
+              "slug": "/hand_formelsammlung",
+              "permalink": "/vorlagen/hand_formelsammlung",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "authors": "TJ"
+              },
+              "sidebar": "latex",
+              "previous": {
+                "title": "🔜 Formelsammlung",
+                "permalink": "/vorlagen/formelsammlung/uebersicht"
+              },
+              "next": {
+                "title": "🔜 Lebenslauf",
+                "permalink": "/vorlagen/lebenslauf"
+              }
+            },
+            {
+              "unversionedId": "lebenslauf",
+              "id": "lebenslauf",
+              "title": "🔜 Lebenslauf",
+              "description": "",
+              "source": "@site/latex/vorlagen/lebenslauf.md",
+              "sourceDirName": ".",
+              "slug": "/lebenslauf",
+              "permalink": "/vorlagen/lebenslauf",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "latex",
+              "previous": {
+                "title": "👨‍🎓 Handschriftliche Formelsammlung",
+                "permalink": "/vorlagen/hand_formelsammlung"
+              },
+              "next": {
+                "title": "🔜 Anschreiben",
+                "permalink": "/vorlagen/anschreiben"
+              }
+            },
+            {
+              "unversionedId": "praesentation/dokument_struktur",
+              "id": "praesentation/dokument_struktur",
+              "title": "dokument_struktur",
+              "description": "",
+              "source": "@site/latex/vorlagen/praesentation/dokument_struktur.md",
+              "sourceDirName": "praesentation",
+              "slug": "/praesentation/dokument_struktur",
+              "permalink": "/vorlagen/praesentation/dokument_struktur",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "praesentation/frames",
+              "id": "praesentation/frames",
+              "title": "frames",
+              "description": "",
+              "source": "@site/latex/vorlagen/praesentation/frames.md",
+              "sourceDirName": "praesentation",
+              "slug": "/praesentation/frames",
+              "permalink": "/vorlagen/praesentation/frames",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "praesentation/funktionsuebersicht",
+              "id": "praesentation/funktionsuebersicht",
+              "title": "funktionsuebersicht",
+              "description": "",
+              "source": "@site/latex/vorlagen/praesentation/funktionsuebersicht.md",
+              "sourceDirName": "praesentation",
+              "slug": "/praesentation/funktionsuebersicht",
+              "permalink": "/vorlagen/praesentation/funktionsuebersicht",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "praesentation/optionen",
+              "id": "praesentation/optionen",
+              "title": "optionen",
+              "description": "",
+              "source": "@site/latex/vorlagen/praesentation/optionen.md",
+              "sourceDirName": "praesentation",
+              "slug": "/praesentation/optionen",
+              "permalink": "/vorlagen/praesentation/optionen",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "praesentation/pakete",
+              "id": "praesentation/pakete",
+              "title": "pakete",
+              "description": "",
+              "source": "@site/latex/vorlagen/praesentation/pakete.md",
+              "sourceDirName": "praesentation",
+              "slug": "/praesentation/pakete",
+              "permalink": "/vorlagen/praesentation/pakete",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "praesentation/uebersicht",
+              "id": "praesentation/uebersicht",
+              "title": "🔜 Präsentation",
+              "description": "",
+              "source": "@site/latex/vorlagen/praesentation/uebersicht.md",
+              "sourceDirName": "praesentation",
+              "slug": "/praesentation/uebersicht",
+              "permalink": "/vorlagen/praesentation/uebersicht",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "latex",
+              "previous": {
+                "title": "🔜 Tagebucheintrag / Artikel",
+                "permalink": "/vorlagen/tagebuch/uebersicht"
+              },
+              "next": {
+                "title": "🔜 Formelsammlung",
+                "permalink": "/vorlagen/formelsammlung/uebersicht"
+              }
+            },
+            {
+              "unversionedId": "tagebuch/anwendung/dokument_struktur",
+              "id": "tagebuch/anwendung/dokument_struktur",
+              "title": "dokument_struktur",
+              "description": "",
+              "source": "@site/latex/vorlagen/tagebuch/anwendung/dokument_struktur.md",
+              "sourceDirName": "tagebuch/anwendung",
+              "slug": "/tagebuch/anwendung/dokument_struktur",
+              "permalink": "/vorlagen/tagebuch/anwendung/dokument_struktur",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "tagebuch/anwendung/funktionsuebersicht",
+              "id": "tagebuch/anwendung/funktionsuebersicht",
+              "title": "funktionsuebersicht",
+              "description": "",
+              "source": "@site/latex/vorlagen/tagebuch/anwendung/funktionsuebersicht.md",
+              "sourceDirName": "tagebuch/anwendung",
+              "slug": "/tagebuch/anwendung/funktionsuebersicht",
+              "permalink": "/vorlagen/tagebuch/anwendung/funktionsuebersicht",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "tagebuch/optionen",
+              "id": "tagebuch/optionen",
+              "title": "optionen",
+              "description": "",
+              "source": "@site/latex/vorlagen/tagebuch/optionen.md",
+              "sourceDirName": "tagebuch",
+              "slug": "/tagebuch/optionen",
+              "permalink": "/vorlagen/tagebuch/optionen",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "tagebuch/pakete",
+              "id": "tagebuch/pakete",
+              "title": "pakete",
+              "description": "",
+              "source": "@site/latex/vorlagen/tagebuch/pakete.md",
+              "sourceDirName": "tagebuch",
+              "slug": "/tagebuch/pakete",
+              "permalink": "/vorlagen/tagebuch/pakete",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "tagebuch/uebersicht",
+              "id": "tagebuch/uebersicht",
+              "title": "🔜 Tagebucheintrag / Artikel",
+              "description": "Kommt bald",
+              "source": "@site/latex/vorlagen/tagebuch/uebersicht.md",
+              "sourceDirName": "tagebuch",
+              "slug": "/tagebuch/uebersicht",
+              "permalink": "/vorlagen/tagebuch/uebersicht",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "latex",
+              "previous": {
+                "title": "🔜 Thesis / Ausarbeitung",
+                "permalink": "/vorlagen/thesis/uebersicht"
+              },
+              "next": {
+                "title": "🔜 Präsentation",
+                "permalink": "/vorlagen/praesentation/uebersicht"
+              }
+            },
+            {
+              "unversionedId": "thesis/anwendnung",
+              "id": "thesis/anwendnung",
+              "title": "anwendnung",
+              "description": "",
+              "source": "@site/latex/vorlagen/thesis/anwendnung.md",
+              "sourceDirName": "thesis",
+              "slug": "/thesis/anwendnung",
+              "permalink": "/vorlagen/thesis/anwendnung",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "thesis/dokumentenklasse",
+              "id": "thesis/dokumentenklasse",
+              "title": "dokumentenklasse",
+              "description": "",
+              "source": "@site/latex/vorlagen/thesis/dokumentenklasse.md",
+              "sourceDirName": "thesis",
+              "slug": "/thesis/dokumentenklasse",
+              "permalink": "/vorlagen/thesis/dokumentenklasse",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "thesis/funktionsuebersicht",
+              "id": "thesis/funktionsuebersicht",
+              "title": "funktionsuebersicht",
+              "description": "",
+              "source": "@site/latex/vorlagen/thesis/funktionsuebersicht.md",
+              "sourceDirName": "thesis",
+              "slug": "/thesis/funktionsuebersicht",
+              "permalink": "/vorlagen/thesis/funktionsuebersicht",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "thesis/optionen",
+              "id": "thesis/optionen",
+              "title": "Optionen",
+              "description": "",
+              "source": "@site/latex/vorlagen/thesis/optionen.md",
+              "sourceDirName": "thesis",
+              "slug": "/thesis/optionen",
+              "permalink": "/vorlagen/thesis/optionen",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "thesis/pakete",
+              "id": "thesis/pakete",
+              "title": "pakete",
+              "description": "",
+              "source": "@site/latex/vorlagen/thesis/pakete.md",
+              "sourceDirName": "thesis",
+              "slug": "/thesis/pakete",
+              "permalink": "/vorlagen/thesis/pakete",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "thesis/titleseite",
+              "id": "thesis/titleseite",
+              "title": "titleseite",
+              "description": "",
+              "source": "@site/latex/vorlagen/thesis/titleseite.md",
+              "sourceDirName": "thesis",
+              "slug": "/thesis/titleseite",
+              "permalink": "/vorlagen/thesis/titleseite",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "thesis/uebersicht",
+              "id": "thesis/uebersicht",
+              "title": "🔜 Thesis / Ausarbeitung",
+              "description": "",
+              "source": "@site/latex/vorlagen/thesis/uebersicht.md",
+              "sourceDirName": "thesis",
+              "slug": "/thesis/uebersicht",
+              "permalink": "/vorlagen/thesis/uebersicht",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "latex",
+              "previous": {
+                "title": "Übersicht",
+                "permalink": "/vorlagen/uebersicht"
+              },
+              "next": {
+                "title": "🔜 Tagebucheintrag / Artikel",
+                "permalink": "/vorlagen/tagebuch/uebersicht"
+              }
+            },
+            {
+              "unversionedId": "uebersicht",
+              "id": "uebersicht",
+              "title": "Übersicht",
+              "description": "Hier wird eine Übersicht geboten was in der Dokumentation alles enthalten ist.",
+              "source": "@site/latex/vorlagen/uebersicht.mdx",
+              "sourceDirName": ".",
+              "slug": "/uebersicht",
+              "permalink": "/vorlagen/uebersicht",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Übersicht",
+                "description": "Hier wird eine Übersicht geboten was in der Dokumentation alles enthalten ist."
+              },
+              "sidebar": "latex",
+              "next": {
+                "title": "🔜 Thesis / Ausarbeitung",
+                "permalink": "/vorlagen/thesis/uebersicht"
+              }
+            }
+          ],
+          "sidebars": {
+            "latex": [
+              {
+                "type": "doc",
+                "id": "uebersicht"
+              },
+              {
+                "type": "doc",
+                "id": "thesis/uebersicht"
+              },
+              {
+                "type": "doc",
+                "id": "tagebuch/uebersicht"
+              },
+              {
+                "type": "doc",
+                "id": "praesentation/uebersicht"
+              },
+              {
+                "type": "doc",
+                "id": "formelsammlung/uebersicht"
+              },
+              {
+                "type": "doc",
+                "id": "hand_formelsammlung"
+              },
+              {
+                "type": "doc",
+                "id": "lebenslauf"
+              },
+              {
+                "type": "doc",
+                "id": "anschreiben"
+              },
+              {
+                "type": "doc",
+                "id": "brief"
+              }
+            ]
+          },
+          "mainDocId": "uebersicht",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "truncated": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ]
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook"
+        },
+        "/blog/tags/hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "/blog/tags/docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        },
+        "/blog/tags/hola": {
+          "name": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/formelsammlung/%5Bid%5D",
+        "source": "@site/src/pages/formelsammlung/[id].tsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/formelsammlung/",
+        "source": "@site/src/pages/formelsammlung/index.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "docusaurus-plugin-ideal-image": {
+    "default": null
+  }
+}

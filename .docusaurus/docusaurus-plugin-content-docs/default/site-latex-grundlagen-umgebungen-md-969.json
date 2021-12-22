@@ -1,0 +1,23 @@
+{
+  "unversionedId": "umgebungen",
+  "id": "umgebungen",
+  "title": "umgebungen",
+  "description": "a",
+  "source": "@site/latex/grundlagen/umgebungen.md",
+  "sourceDirName": ".",
+  "slug": "/umgebungen",
+  "permalink": "/latex/umgebungen",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/umgebungen.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "text",
+    "permalink": "/latex/text"
+  },
+  "next": {
+    "title": "Abbildungen",
+    "permalink": "/latex/figure"
+  }
+}

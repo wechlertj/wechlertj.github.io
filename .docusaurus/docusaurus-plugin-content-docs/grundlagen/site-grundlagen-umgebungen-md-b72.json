@@ -1,0 +1,22 @@
+{
+  "unversionedId": "umgebungen",
+  "id": "umgebungen",
+  "title": "umgebungen",
+  "description": "a",
+  "source": "@site/grundlagen/umgebungen.md",
+  "sourceDirName": ".",
+  "slug": "/umgebungen",
+  "permalink": "/grundlagen/umgebungen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "text",
+    "permalink": "/grundlagen/text"
+  },
+  "next": {
+    "title": "Abbildungen",
+    "permalink": "/grundlagen/figure"
+  }
+}

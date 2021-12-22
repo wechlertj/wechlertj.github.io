@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/uebersicht",
+  "id": "thesis/uebersicht",
+  "title": "uebersicht",
+  "description": "",
+  "source": "@site/vorlagen/thesis/uebersicht.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/uebersicht",
+  "permalink": "/vorlagen/thesis/uebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

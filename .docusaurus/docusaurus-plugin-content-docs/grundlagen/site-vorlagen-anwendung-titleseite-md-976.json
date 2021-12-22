@@ -1,0 +1,13 @@
+{
+  "unversionedId": "anwendung/titleseite",
+  "id": "anwendung/titleseite",
+  "title": "titleseite",
+  "description": "",
+  "source": "@site/vorlagen/anwendung/titleseite.md",
+  "sourceDirName": "anwendung",
+  "slug": "/anwendung/titleseite",
+  "permalink": "/grundlagen/anwendung/titleseite",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

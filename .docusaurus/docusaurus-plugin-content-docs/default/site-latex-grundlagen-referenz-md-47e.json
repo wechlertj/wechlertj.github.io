@@ -1,0 +1,23 @@
+{
+  "unversionedId": "referenz",
+  "id": "referenz",
+  "title": "referenz",
+  "description": "",
+  "source": "@site/latex/grundlagen/referenz.md",
+  "sourceDirName": ".",
+  "slug": "/referenz",
+  "permalink": "/latex/referenz",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/referenz.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "bibliography",
+    "permalink": "/latex/bibliography"
+  },
+  "next": {
+    "title": "verzeichnisse",
+    "permalink": "/latex/verzeichnisse"
+  }
+}

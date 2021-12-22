@@ -7,6 +7,11 @@
     margin-top: 1rem!important;
     margin-bottom: 2rem!important;
 }
+html[data-theme='dark'] .getStarted{
+  --bs-light-rgb: 54,54,54;
+  --bs-bg-opacity: 0.5;
+  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;   
+}
 .getStarted h1{
     font-size: 2rem;
 }

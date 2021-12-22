@@ -1,0 +1,13 @@
+{
+  "unversionedId": "anwendung/dokument_optionen",
+  "id": "anwendung/dokument_optionen",
+  "title": "dokument_optionen",
+  "description": "",
+  "source": "@site/latex/vorlagen/anwendung/dokument_optionen.md",
+  "sourceDirName": "anwendung",
+  "slug": "/anwendung/dokument_optionen",
+  "permalink": "/vorlagen/anwendung/dokument_optionen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

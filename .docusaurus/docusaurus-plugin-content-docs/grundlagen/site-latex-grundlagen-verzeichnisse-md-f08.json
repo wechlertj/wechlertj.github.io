@@ -1,0 +1,22 @@
+{
+  "unversionedId": "verzeichnisse",
+  "id": "verzeichnisse",
+  "title": "verzeichnisse",
+  "description": "",
+  "source": "@site/latex/grundlagen/verzeichnisse.md",
+  "sourceDirName": ".",
+  "slug": "/verzeichnisse",
+  "permalink": "/grundlagen/verzeichnisse",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "referenz",
+    "permalink": "/grundlagen/referenz"
+  },
+  "next": {
+    "title": "Seitenlayout",
+    "permalink": "/grundlagen/layout"
+  }
+}

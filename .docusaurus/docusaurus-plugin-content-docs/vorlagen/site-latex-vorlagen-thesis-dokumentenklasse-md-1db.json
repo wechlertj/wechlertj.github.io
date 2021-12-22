@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/dokumentenklasse",
+  "id": "thesis/dokumentenklasse",
+  "title": "dokumentenklasse",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/dokumentenklasse.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/dokumentenklasse",
+  "permalink": "/vorlagen/thesis/dokumentenklasse",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

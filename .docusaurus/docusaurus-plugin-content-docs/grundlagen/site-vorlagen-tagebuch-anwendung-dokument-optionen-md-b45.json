@@ -1,0 +1,13 @@
+{
+  "unversionedId": "tagebuch/anwendung/dokument_optionen",
+  "id": "tagebuch/anwendung/dokument_optionen",
+  "title": "dokument_optionen",
+  "description": "",
+  "source": "@site/vorlagen/tagebuch/anwendung/dokument_optionen.md",
+  "sourceDirName": "tagebuch/anwendung",
+  "slug": "/tagebuch/anwendung/dokument_optionen",
+  "permalink": "/grundlagen/tagebuch/anwendung/dokument_optionen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

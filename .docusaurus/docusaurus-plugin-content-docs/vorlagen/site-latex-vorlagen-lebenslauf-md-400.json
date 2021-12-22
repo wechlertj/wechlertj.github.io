@@ -1,0 +1,22 @@
+{
+  "unversionedId": "lebenslauf",
+  "id": "lebenslauf",
+  "title": "🔜 Lebenslauf",
+  "description": "",
+  "source": "@site/latex/vorlagen/lebenslauf.md",
+  "sourceDirName": ".",
+  "slug": "/lebenslauf",
+  "permalink": "/vorlagen/lebenslauf",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "latex",
+  "previous": {
+    "title": "👨‍🎓 Handschriftliche Formelsammlung",
+    "permalink": "/vorlagen/hand_formelsammlung"
+  },
+  "next": {
+    "title": "🔜 Anschreiben",
+    "permalink": "/vorlagen/anschreiben"
+  }
+}

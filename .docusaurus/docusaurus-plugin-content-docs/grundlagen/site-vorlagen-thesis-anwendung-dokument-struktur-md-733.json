@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/anwendung/dokument_struktur",
+  "id": "thesis/anwendung/dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "",
+  "source": "@site/vorlagen/thesis/anwendung/dokument_struktur.md",
+  "sourceDirName": "thesis/anwendung",
+  "slug": "/thesis/anwendung/dokument_struktur",
+  "permalink": "/grundlagen/thesis/anwendung/dokument_struktur",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

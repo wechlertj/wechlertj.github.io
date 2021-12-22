@@ -1,0 +1,22 @@
+{
+  "unversionedId": "referenz",
+  "id": "referenz",
+  "title": "referenz",
+  "description": "",
+  "source": "@site/latex/grundlagen/referenz.md",
+  "sourceDirName": ".",
+  "slug": "/referenz",
+  "permalink": "/grundlagen/referenz",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "bibliography",
+    "permalink": "/grundlagen/bibliography"
+  },
+  "next": {
+    "title": "verzeichnisse",
+    "permalink": "/grundlagen/verzeichnisse"
+  }
+}

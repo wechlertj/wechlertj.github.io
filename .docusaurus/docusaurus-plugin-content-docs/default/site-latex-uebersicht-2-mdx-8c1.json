@@ -1,0 +1,17 @@
+{
+  "unversionedId": "uebersicht 2",
+  "id": "uebersicht 2",
+  "title": "Übersicht",
+  "description": "Hier wird eine Übersicht geboten was in der Dokumentation alles enthalten ist.",
+  "source": "@site/latex/uebersicht 2.mdx",
+  "sourceDirName": ".",
+  "slug": "/uebersicht 2",
+  "permalink": "/latex/uebersicht 2",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/uebersicht 2.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Übersicht",
+    "description": "Hier wird eine Übersicht geboten was in der Dokumentation alles enthalten ist."
+  }
+}

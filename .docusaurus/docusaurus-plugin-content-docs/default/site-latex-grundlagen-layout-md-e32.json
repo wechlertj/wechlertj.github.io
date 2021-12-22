@@ -1,0 +1,23 @@
+{
+  "unversionedId": "layout",
+  "id": "layout",
+  "title": "Seitenlayout",
+  "description": "",
+  "source": "@site/latex/grundlagen/layout.md",
+  "sourceDirName": ".",
+  "slug": "/layout",
+  "permalink": "/latex/layout",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/layout.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "verzeichnisse",
+    "permalink": "/latex/verzeichnisse"
+  },
+  "next": {
+    "title": "correct_typography",
+    "permalink": "/latex/correct_typography"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "umgebungen",
+  "id": "umgebungen",
+  "title": "umgebungen",
+  "description": "a",
+  "source": "@site/latex/grundlagen/umgebungen.md",
+  "sourceDirName": ".",
+  "slug": "/umgebungen",
+  "permalink": "/grundlagen/umgebungen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "mathematik",
+    "permalink": "/grundlagen/mathematik"
+  },
+  "next": {
+    "title": "Abbildungen",
+    "permalink": "/grundlagen/figure"
+  }
+}

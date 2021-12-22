@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/anwednung",
+  "id": "thesis/anwednung",
+  "title": "anwednung",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/anwednung.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/anwednung",
+  "permalink": "/vorlagen/thesis/anwednung",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

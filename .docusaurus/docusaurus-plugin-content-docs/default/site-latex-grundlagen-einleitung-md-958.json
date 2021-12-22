@@ -1,0 +1,23 @@
+{
+  "unversionedId": "einleitung",
+  "id": "einleitung",
+  "title": "Einleitung",
+  "description": "Ziel ?",
+  "source": "@site/latex/grundlagen/einleitung.md",
+  "sourceDirName": ".",
+  "slug": "/einleitung",
+  "permalink": "/latex/einleitung",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/einleitung.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "Übersicht",
+    "permalink": "/latex/uebersicht"
+  },
+  "next": {
+    "title": "installation",
+    "permalink": "/latex/installation"
+  }
+}

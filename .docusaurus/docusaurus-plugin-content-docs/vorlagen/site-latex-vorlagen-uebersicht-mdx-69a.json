@@ -1,0 +1,21 @@
+{
+  "unversionedId": "uebersicht",
+  "id": "uebersicht",
+  "title": "Übersicht",
+  "description": "Hier wird eine Übersicht geboten was in der Dokumentation alles enthalten ist.",
+  "source": "@site/latex/vorlagen/uebersicht.mdx",
+  "sourceDirName": ".",
+  "slug": "/uebersicht",
+  "permalink": "/vorlagen/uebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Übersicht",
+    "description": "Hier wird eine Übersicht geboten was in der Dokumentation alles enthalten ist."
+  },
+  "sidebar": "latex",
+  "next": {
+    "title": "🔜 Thesis / Ausarbeitung",
+    "permalink": "/vorlagen/thesis/uebersicht"
+  }
+}

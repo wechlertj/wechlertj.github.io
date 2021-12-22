@@ -1,0 +1,23 @@
+{
+  "unversionedId": "installation-texlive",
+  "id": "installation-texlive",
+  "title": "installation-texlive",
+  "description": "",
+  "source": "@site/latex/grundlagen/installation-texlive.md",
+  "sourceDirName": ".",
+  "slug": "/installation-texlive",
+  "permalink": "/latex/installation-texlive",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/installation-texlive.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "installation-miktex",
+    "permalink": "/latex/installation-miktex"
+  },
+  "next": {
+    "title": "installation-mactex",
+    "permalink": "/latex/installation-mactex"
+  }
+}

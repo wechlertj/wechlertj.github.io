@@ -1,0 +1,22 @@
+{
+  "unversionedId": "uebersicht",
+  "id": "uebersicht",
+  "title": "Übersicht",
+  "description": "Hier wird eine Übersicht geboten was in der Dokumentation alles enthalten ist.",
+  "source": "@site/latex/grundlagen/uebersicht.mdx",
+  "sourceDirName": ".",
+  "slug": "/uebersicht",
+  "permalink": "/latex/uebersicht",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/uebersicht.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Übersicht",
+    "description": "Hier wird eine Übersicht geboten was in der Dokumentation alles enthalten ist."
+  },
+  "sidebar": "grundlagen",
+  "next": {
+    "title": "Einleitung",
+    "permalink": "/latex/einleitung"
+  }
+}

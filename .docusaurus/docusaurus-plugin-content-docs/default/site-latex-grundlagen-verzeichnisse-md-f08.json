@@ -1,0 +1,23 @@
+{
+  "unversionedId": "verzeichnisse",
+  "id": "verzeichnisse",
+  "title": "verzeichnisse",
+  "description": "",
+  "source": "@site/latex/grundlagen/verzeichnisse.md",
+  "sourceDirName": ".",
+  "slug": "/verzeichnisse",
+  "permalink": "/latex/verzeichnisse",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/verzeichnisse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "referenz",
+    "permalink": "/latex/referenz"
+  },
+  "next": {
+    "title": "Seitenlayout",
+    "permalink": "/latex/layout"
+  }
+}

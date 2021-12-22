@@ -1,0 +1,22 @@
+{
+  "unversionedId": "tagebuch/uebersicht",
+  "id": "tagebuch/uebersicht",
+  "title": "🔜 Tagebucheintrag / Artikel",
+  "description": "Kommt bald",
+  "source": "@site/latex/vorlagen/tagebuch/uebersicht.md",
+  "sourceDirName": "tagebuch",
+  "slug": "/tagebuch/uebersicht",
+  "permalink": "/vorlagen/tagebuch/uebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "latex",
+  "previous": {
+    "title": "🔜 Thesis / Ausarbeitung",
+    "permalink": "/vorlagen/thesis/uebersicht"
+  },
+  "next": {
+    "title": "🔜 Präsentation",
+    "permalink": "/vorlagen/praesentation/uebersicht"
+  }
+}

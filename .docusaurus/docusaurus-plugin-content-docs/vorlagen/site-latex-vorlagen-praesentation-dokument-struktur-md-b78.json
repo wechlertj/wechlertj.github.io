@@ -1,0 +1,13 @@
+{
+  "unversionedId": "praesentation/dokument_struktur",
+  "id": "praesentation/dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "",
+  "source": "@site/latex/vorlagen/praesentation/dokument_struktur.md",
+  "sourceDirName": "praesentation",
+  "slug": "/praesentation/dokument_struktur",
+  "permalink": "/vorlagen/praesentation/dokument_struktur",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

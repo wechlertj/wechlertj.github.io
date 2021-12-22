@@ -1,0 +1,22 @@
+{
+  "unversionedId": "praesentation/uebersicht",
+  "id": "praesentation/uebersicht",
+  "title": "🔜 Präsentation",
+  "description": "",
+  "source": "@site/latex/vorlagen/praesentation/uebersicht.md",
+  "sourceDirName": "praesentation",
+  "slug": "/praesentation/uebersicht",
+  "permalink": "/vorlagen/praesentation/uebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "latex",
+  "previous": {
+    "title": "🔜 Tagebucheintrag / Artikel",
+    "permalink": "/vorlagen/tagebuch/uebersicht"
+  },
+  "next": {
+    "title": "🔜 Formelsammlung",
+    "permalink": "/vorlagen/formelsammlung/uebersicht"
+  }
+}

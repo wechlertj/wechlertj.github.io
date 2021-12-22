@@ -1,0 +1,23 @@
+{
+  "unversionedId": "table",
+  "id": "table",
+  "title": "table",
+  "description": "",
+  "source": "@site/latex/grundlagen/table.md",
+  "sourceDirName": ".",
+  "slug": "/table",
+  "permalink": "/latex/table",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/table.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "Abbildungen",
+    "permalink": "/latex/figure"
+  },
+  "next": {
+    "title": "listings",
+    "permalink": "/latex/listings"
+  }
+}

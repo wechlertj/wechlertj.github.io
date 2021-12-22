@@ -1,0 +1,13 @@
+{
+  "unversionedId": "tagebuch/pakete",
+  "id": "tagebuch/pakete",
+  "title": "pakete",
+  "description": "",
+  "source": "@site/latex/vorlagen/tagebuch/pakete.md",
+  "sourceDirName": "tagebuch",
+  "slug": "/tagebuch/pakete",
+  "permalink": "/vorlagen/tagebuch/pakete",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unversionedId": "praesentation/anwendung/frames",
+  "id": "praesentation/anwendung/frames",
+  "title": "frames",
+  "description": "",
+  "source": "@site/latex/vorlagen/praesentation/anwendung/frames.md",
+  "sourceDirName": "praesentation/anwendung",
+  "slug": "/praesentation/anwendung/frames",
+  "permalink": "/vorlagen/praesentation/anwendung/frames",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

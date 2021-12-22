@@ -1,0 +1,13 @@
+{
+  "unversionedId": "anwendung/funktionsuebersicht",
+  "id": "anwendung/funktionsuebersicht",
+  "title": "funktionsuebersicht",
+  "description": "",
+  "source": "@site/vorlagen/anwendung/funktionsuebersicht.md",
+  "sourceDirName": "anwendung",
+  "slug": "/anwendung/funktionsuebersicht",
+  "permalink": "/vorlagen/anwendung/funktionsuebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

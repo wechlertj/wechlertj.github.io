@@ -1,0 +1,22 @@
+{
+  "unversionedId": "listings",
+  "id": "listings",
+  "title": "listings",
+  "description": "",
+  "source": "@site/grundlagen/listings.md",
+  "sourceDirName": ".",
+  "slug": "/listings",
+  "permalink": "/grundlagen/listings",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "table",
+    "permalink": "/grundlagen/table"
+  },
+  "next": {
+    "title": "math",
+    "permalink": "/grundlagen/math"
+  }
+}

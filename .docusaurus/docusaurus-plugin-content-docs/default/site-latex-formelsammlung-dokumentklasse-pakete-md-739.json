@@ -1,0 +1,14 @@
+{
+  "unversionedId": "formelsammlung/dokumentklasse/pakete",
+  "id": "formelsammlung/dokumentklasse/pakete",
+  "title": "pakete",
+  "description": "",
+  "source": "@site/latex/formelsammlung/dokumentklasse/pakete.md",
+  "sourceDirName": "formelsammlung/dokumentklasse",
+  "slug": "/formelsammlung/dokumentklasse/pakete",
+  "permalink": "/latex/formelsammlung/dokumentklasse/pakete",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/formelsammlung/dokumentklasse/pakete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

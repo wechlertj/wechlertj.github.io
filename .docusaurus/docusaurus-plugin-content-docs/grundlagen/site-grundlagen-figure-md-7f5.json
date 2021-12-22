@@ -1,0 +1,22 @@
+{
+  "unversionedId": "figure",
+  "id": "figure",
+  "title": "Abbildungen",
+  "description": "",
+  "source": "@site/grundlagen/figure.md",
+  "sourceDirName": ".",
+  "slug": "/figure",
+  "permalink": "/grundlagen/figure",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "umgebungen",
+    "permalink": "/grundlagen/umgebungen"
+  },
+  "next": {
+    "title": "table",
+    "permalink": "/grundlagen/table"
+  }
+}

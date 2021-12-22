@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/anwendung/funktionsuebersicht",
+  "id": "thesis/anwendung/funktionsuebersicht",
+  "title": "funktionsuebersicht",
+  "description": "",
+  "source": "@site/vorlagen/thesis/anwendung/funktionsuebersicht.md",
+  "sourceDirName": "thesis/anwendung",
+  "slug": "/thesis/anwendung/funktionsuebersicht",
+  "permalink": "/grundlagen/thesis/anwendung/funktionsuebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

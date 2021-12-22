@@ -1,0 +1,22 @@
+{
+  "unversionedId": "formelsammlung/uebersicht",
+  "id": "formelsammlung/uebersicht",
+  "title": "🔜 Formelsammlung",
+  "description": "",
+  "source": "@site/latex/vorlagen/formelsammlung/uebersicht.md",
+  "sourceDirName": "formelsammlung",
+  "slug": "/formelsammlung/uebersicht",
+  "permalink": "/vorlagen/formelsammlung/uebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "latex",
+  "previous": {
+    "title": "🔜 Präsentation",
+    "permalink": "/vorlagen/praesentation/uebersicht"
+  },
+  "next": {
+    "title": "👨‍🎓 Handschriftliche Formelsammlung",
+    "permalink": "/vorlagen/hand_formelsammlung"
+  }
+}

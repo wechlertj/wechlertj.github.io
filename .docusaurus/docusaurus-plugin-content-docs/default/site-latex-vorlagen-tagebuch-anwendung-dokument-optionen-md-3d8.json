@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/tagebuch/anwendung/dokument_optionen",
+  "id": "vorlagen/tagebuch/anwendung/dokument_optionen",
+  "title": "dokument_optionen",
+  "description": "",
+  "source": "@site/latex/vorlagen/tagebuch/anwendung/dokument_optionen.md",
+  "sourceDirName": "vorlagen/tagebuch/anwendung",
+  "slug": "/vorlagen/tagebuch/anwendung/dokument_optionen",
+  "permalink": "/latex/vorlagen/tagebuch/anwendung/dokument_optionen",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/tagebuch/anwendung/dokument_optionen.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

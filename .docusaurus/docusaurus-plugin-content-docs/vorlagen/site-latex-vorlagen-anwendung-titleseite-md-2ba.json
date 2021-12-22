@@ -1,0 +1,13 @@
+{
+  "unversionedId": "anwendung/titleseite",
+  "id": "anwendung/titleseite",
+  "title": "titleseite",
+  "description": "",
+  "source": "@site/latex/vorlagen/anwendung/titleseite.md",
+  "sourceDirName": "anwendung",
+  "slug": "/anwendung/titleseite",
+  "permalink": "/vorlagen/anwendung/titleseite",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

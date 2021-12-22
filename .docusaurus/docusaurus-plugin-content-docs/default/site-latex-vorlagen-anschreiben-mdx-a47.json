@@ -1,0 +1,15 @@
+{
+  "unversionedId": "vorlagen/anschreiben",
+  "id": "vorlagen/anschreiben",
+  "title": "anschreiben",
+  "description": "",
+  "source": "@site/latex/vorlagen/anschreiben.mdx",
+  "sourceDirName": "vorlagen",
+  "slug": "/vorlagen/anschreiben",
+  "permalink": "/latex/vorlagen/anschreiben",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/anschreiben.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "vorlagen"
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "bibliography",
+  "id": "bibliography",
+  "title": "bibliography",
+  "description": "a",
+  "source": "@site/latex/grundlagen/bibliography.md",
+  "sourceDirName": ".",
+  "slug": "/bibliography",
+  "permalink": "/grundlagen/bibliography",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "Programmcodes",
+    "permalink": "/grundlagen/listings"
+  },
+  "next": {
+    "title": "referenz",
+    "permalink": "/grundlagen/referenz"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "wissenschaftlich",
+  "id": "wissenschaftlich",
+  "title": "Wissenschaftliches Schreiben",
+  "description": "",
+  "source": "@site/latex/grundlagen/wissenschaftlich.md",
+  "sourceDirName": ".",
+  "slug": "/wissenschaftlich",
+  "permalink": "/grundlagen/wissenschaftlich",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "correct_typography",
+    "permalink": "/grundlagen/correct_typography"
+  }
+}

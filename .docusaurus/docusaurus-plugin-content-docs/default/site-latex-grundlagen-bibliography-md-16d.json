@@ -1,0 +1,23 @@
+{
+  "unversionedId": "bibliography",
+  "id": "bibliography",
+  "title": "bibliography",
+  "description": "a",
+  "source": "@site/latex/grundlagen/bibliography.md",
+  "sourceDirName": ".",
+  "slug": "/bibliography",
+  "permalink": "/latex/bibliography",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/bibliography.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "(Physikalische) Einheiten verwenden",
+    "permalink": "/latex/units"
+  },
+  "next": {
+    "title": "referenz",
+    "permalink": "/latex/referenz"
+  }
+}

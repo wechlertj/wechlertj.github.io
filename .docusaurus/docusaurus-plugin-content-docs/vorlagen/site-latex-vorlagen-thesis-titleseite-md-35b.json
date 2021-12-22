@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/titleseite",
+  "id": "thesis/titleseite",
+  "title": "titleseite",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/titleseite.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/titleseite",
+  "permalink": "/vorlagen/thesis/titleseite",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

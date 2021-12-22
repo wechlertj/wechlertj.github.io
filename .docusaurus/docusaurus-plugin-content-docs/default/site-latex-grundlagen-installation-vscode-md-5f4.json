@@ -1,0 +1,23 @@
+{
+  "unversionedId": "installation-vscode",
+  "id": "installation-vscode",
+  "title": "installation-vscode",
+  "description": "",
+  "source": "@site/latex/grundlagen/installation-vscode.md",
+  "sourceDirName": ".",
+  "slug": "/installation-vscode",
+  "permalink": "/latex/installation-vscode",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/installation-vscode.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "installation-texmaker-texstudio",
+    "permalink": "/latex/installation-texmaker-texstudio"
+  },
+  "next": {
+    "title": "Dateistruktur",
+    "permalink": "/latex/dateistruktur"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "table",
+  "id": "table",
+  "title": "table",
+  "description": "",
+  "source": "@site/grundlagen/table.md",
+  "sourceDirName": ".",
+  "slug": "/table",
+  "permalink": "/grundlagen/table",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "Abbildungen",
+    "permalink": "/grundlagen/figure"
+  },
+  "next": {
+    "title": "listings",
+    "permalink": "/grundlagen/listings"
+  }
+}

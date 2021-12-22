@@ -1,0 +1,13 @@
+{
+  "unversionedId": "units",
+  "id": "units",
+  "title": "(Physikalische) Einheiten verwenden",
+  "description": "",
+  "source": "@site/latex/grundlagen/units.md",
+  "sourceDirName": ".",
+  "slug": "/units",
+  "permalink": "/grundlagen/units",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "formelsammlung/anwendung/funktionsuebersicht",
+  "id": "formelsammlung/anwendung/funktionsuebersicht",
+  "title": "funktionsuebersicht",
+  "description": "",
+  "source": "@site/latex/formelsammlung/anwendung/funktionsuebersicht.md",
+  "sourceDirName": "formelsammlung/anwendung",
+  "slug": "/formelsammlung/anwendung/funktionsuebersicht",
+  "permalink": "/latex/formelsammlung/anwendung/funktionsuebersicht",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/formelsammlung/anwendung/funktionsuebersicht.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unversionedId": "lebenslauf/lebenslauf",
+  "id": "lebenslauf/lebenslauf",
+  "title": "lebenslauf",
+  "description": "",
+  "source": "@site/vorlagen/lebenslauf/lebenslauf.md",
+  "sourceDirName": "lebenslauf",
+  "slug": "/lebenslauf/",
+  "permalink": "/grundlagen/lebenslauf/",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

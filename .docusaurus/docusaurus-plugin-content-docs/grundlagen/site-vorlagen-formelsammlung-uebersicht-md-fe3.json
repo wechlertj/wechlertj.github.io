@@ -1,0 +1,13 @@
+{
+  "unversionedId": "formelsammlung/uebersicht",
+  "id": "formelsammlung/uebersicht",
+  "title": "uebersicht",
+  "description": "",
+  "source": "@site/vorlagen/formelsammlung/uebersicht.md",
+  "sourceDirName": "formelsammlung",
+  "slug": "/formelsammlung/uebersicht",
+  "permalink": "/grundlagen/formelsammlung/uebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "math",
+  "id": "math",
+  "title": "math",
+  "description": "a",
+  "source": "@site/grundlagen/math.md",
+  "sourceDirName": ".",
+  "slug": "/math",
+  "permalink": "/grundlagen/math",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "listings",
+    "permalink": "/grundlagen/listings"
+  },
+  "next": {
+    "title": "(Physikalische) Einheiten verwenden",
+    "permalink": "/grundlagen/units"
+  }
+}

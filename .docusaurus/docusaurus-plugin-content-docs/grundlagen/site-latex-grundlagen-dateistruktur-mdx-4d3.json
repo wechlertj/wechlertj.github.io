@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dateistruktur",
+  "id": "dateistruktur",
+  "title": "Dateistruktur",
+  "description": "Die Preamble ist der Bereich, des LaTeX-Dokuments, der vor dem Befehl \\begin sich befindet.",
+  "source": "@site/latex/grundlagen/dateistruktur.mdx",
+  "sourceDirName": ".",
+  "slug": "/dateistruktur",
+  "permalink": "/grundlagen/dateistruktur",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "installation-vscode",
+    "permalink": "/grundlagen/installation-vscode"
+  },
+  "next": {
+    "title": "text",
+    "permalink": "/grundlagen/text"
+  }
+}

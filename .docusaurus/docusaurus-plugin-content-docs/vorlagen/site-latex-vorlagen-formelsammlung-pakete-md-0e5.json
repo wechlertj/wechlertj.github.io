@@ -1,0 +1,13 @@
+{
+  "unversionedId": "formelsammlung/pakete",
+  "id": "formelsammlung/pakete",
+  "title": "pakete",
+  "description": "",
+  "source": "@site/latex/vorlagen/formelsammlung/pakete.md",
+  "sourceDirName": "formelsammlung",
+  "slug": "/formelsammlung/pakete",
+  "permalink": "/vorlagen/formelsammlung/pakete",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

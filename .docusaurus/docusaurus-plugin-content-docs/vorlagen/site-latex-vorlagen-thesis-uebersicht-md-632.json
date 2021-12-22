@@ -1,0 +1,22 @@
+{
+  "unversionedId": "thesis/uebersicht",
+  "id": "thesis/uebersicht",
+  "title": "🔜 Thesis / Ausarbeitung",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/uebersicht.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/uebersicht",
+  "permalink": "/vorlagen/thesis/uebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "latex",
+  "previous": {
+    "title": "Übersicht",
+    "permalink": "/vorlagen/uebersicht"
+  },
+  "next": {
+    "title": "🔜 Tagebucheintrag / Artikel",
+    "permalink": "/vorlagen/tagebuch/uebersicht"
+  }
+}

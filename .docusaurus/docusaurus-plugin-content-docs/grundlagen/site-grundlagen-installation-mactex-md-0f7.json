@@ -1,0 +1,22 @@
+{
+  "unversionedId": "installation-mactex",
+  "id": "installation-mactex",
+  "title": "installation-mactex",
+  "description": "",
+  "source": "@site/grundlagen/installation-mactex.md",
+  "sourceDirName": ".",
+  "slug": "/installation-mactex",
+  "permalink": "/grundlagen/installation-mactex",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "installation-texlive",
+    "permalink": "/grundlagen/installation-texlive"
+  },
+  "next": {
+    "title": "installation-texmaker-texstudio",
+    "permalink": "/grundlagen/installation-texmaker-texstudio"
+  }
+}

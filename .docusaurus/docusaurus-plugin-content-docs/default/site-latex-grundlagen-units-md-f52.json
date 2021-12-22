@@ -1,0 +1,23 @@
+{
+  "unversionedId": "units",
+  "id": "units",
+  "title": "(Physikalische) Einheiten verwenden",
+  "description": "",
+  "source": "@site/latex/grundlagen/units.md",
+  "sourceDirName": ".",
+  "slug": "/units",
+  "permalink": "/latex/units",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/units.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "math",
+    "permalink": "/latex/math"
+  },
+  "next": {
+    "title": "bibliography",
+    "permalink": "/latex/bibliography"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/anwendung/titleseite",
+  "id": "thesis/anwendung/titleseite",
+  "title": "titleseite",
+  "description": "",
+  "source": "@site/vorlagen/thesis/anwendung/titleseite.md",
+  "sourceDirName": "thesis/anwendung",
+  "slug": "/thesis/anwendung/titleseite",
+  "permalink": "/grundlagen/thesis/anwendung/titleseite",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

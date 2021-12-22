@@ -1,0 +1,14 @@
+{
+  "unversionedId": "lebenslauf/lebenslauf",
+  "id": "lebenslauf/lebenslauf",
+  "title": "lebenslauf",
+  "description": "",
+  "source": "@site/latex/lebenslauf/lebenslauf.md",
+  "sourceDirName": "lebenslauf",
+  "slug": "/lebenslauf/",
+  "permalink": "/latex/lebenslauf/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/lebenslauf/lebenslauf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

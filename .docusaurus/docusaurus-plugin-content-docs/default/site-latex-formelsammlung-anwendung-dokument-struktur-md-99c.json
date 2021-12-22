@@ -1,0 +1,14 @@
+{
+  "unversionedId": "formelsammlung/anwendung/dokument_struktur",
+  "id": "formelsammlung/anwendung/dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "",
+  "source": "@site/latex/formelsammlung/anwendung/dokument_struktur.md",
+  "sourceDirName": "formelsammlung/anwendung",
+  "slug": "/formelsammlung/anwendung/dokument_struktur",
+  "permalink": "/latex/formelsammlung/anwendung/dokument_struktur",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/formelsammlung/anwendung/dokument_struktur.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "installation-texmaker-texstudio",
+  "id": "installation-texmaker-texstudio",
+  "title": "installation-texmaker-texstudio",
+  "description": "",
+  "source": "@site/latex/grundlagen/installation-texmaker-texstudio.md",
+  "sourceDirName": ".",
+  "slug": "/installation-texmaker-texstudio",
+  "permalink": "/grundlagen/installation-texmaker-texstudio",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "installation-mactex",
+    "permalink": "/grundlagen/installation-mactex"
+  },
+  "next": {
+    "title": "installation-vscode",
+    "permalink": "/grundlagen/installation-vscode"
+  }
+}

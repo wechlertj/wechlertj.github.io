@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/tagebuch/anwendung/dokument_struktur",
+  "id": "vorlagen/tagebuch/anwendung/dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "",
+  "source": "@site/latex/vorlagen/tagebuch/anwendung/dokument_struktur.md",
+  "sourceDirName": "vorlagen/tagebuch/anwendung",
+  "slug": "/vorlagen/tagebuch/anwendung/dokument_struktur",
+  "permalink": "/latex/vorlagen/tagebuch/anwendung/dokument_struktur",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/tagebuch/anwendung/dokument_struktur.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

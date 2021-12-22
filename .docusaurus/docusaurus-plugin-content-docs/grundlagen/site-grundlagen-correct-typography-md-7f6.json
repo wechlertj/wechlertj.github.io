@@ -1,0 +1,18 @@
+{
+  "unversionedId": "correct_typography",
+  "id": "correct_typography",
+  "title": "correct_typography",
+  "description": "a",
+  "source": "@site/grundlagen/correct_typography.md",
+  "sourceDirName": ".",
+  "slug": "/correct_typography",
+  "permalink": "/grundlagen/correct_typography",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "Seitenlayout",
+    "permalink": "/grundlagen/layout"
+  }
+}

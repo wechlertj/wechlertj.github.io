@@ -1,0 +1,283 @@
+{
+  "pluginId": "grundlagen",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "grundlagen": [
+      {
+        "type": "link",
+        "label": "Einleitung",
+        "href": "/grundlagen/einleitung",
+        "docId": "einleitung"
+      },
+      {
+        "type": "category",
+        "label": "Installation",
+        "items": [
+          {
+            "type": "link",
+            "label": "installation-miktex",
+            "href": "/grundlagen/installation-miktex",
+            "docId": "installation-miktex"
+          },
+          {
+            "type": "link",
+            "label": "installation-texlive",
+            "href": "/grundlagen/installation-texlive",
+            "docId": "installation-texlive"
+          },
+          {
+            "type": "link",
+            "label": "installation-mactex",
+            "href": "/grundlagen/installation-mactex",
+            "docId": "installation-mactex"
+          },
+          {
+            "type": "link",
+            "label": "installation-texmaker-texstudio",
+            "href": "/grundlagen/installation-texmaker-texstudio",
+            "docId": "installation-texmaker-texstudio"
+          },
+          {
+            "type": "link",
+            "label": "installation-vscode",
+            "href": "/grundlagen/installation-vscode",
+            "docId": "installation-vscode"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true,
+        "href": "/grundlagen/installation"
+      },
+      {
+        "type": "link",
+        "label": "Dateistruktur",
+        "href": "/grundlagen/dateistruktur",
+        "docId": "dateistruktur"
+      },
+      {
+        "type": "link",
+        "label": "text",
+        "href": "/grundlagen/text",
+        "docId": "text"
+      },
+      {
+        "type": "link",
+        "label": "mathematik",
+        "href": "/grundlagen/mathematik",
+        "docId": "mathematik"
+      },
+      {
+        "type": "category",
+        "label": "Umgebungen",
+        "items": [
+          {
+            "type": "link",
+            "label": "Abbildungen",
+            "href": "/grundlagen/figure",
+            "docId": "figure"
+          },
+          {
+            "type": "link",
+            "label": "Tabellen",
+            "href": "/grundlagen/table",
+            "docId": "table"
+          },
+          {
+            "type": "link",
+            "label": "Gleichungen",
+            "href": "/grundlagen/equations",
+            "docId": "equations"
+          },
+          {
+            "type": "link",
+            "label": "Programmcodes",
+            "href": "/grundlagen/listings",
+            "docId": "listings"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true,
+        "href": "/grundlagen/umgebungen"
+      },
+      {
+        "type": "link",
+        "label": "bibliography",
+        "href": "/grundlagen/bibliography",
+        "docId": "bibliography"
+      },
+      {
+        "type": "link",
+        "label": "referenz",
+        "href": "/grundlagen/referenz",
+        "docId": "referenz"
+      },
+      {
+        "type": "link",
+        "label": "verzeichnisse",
+        "href": "/grundlagen/verzeichnisse",
+        "docId": "verzeichnisse"
+      },
+      {
+        "type": "link",
+        "label": "Seitenlayout",
+        "href": "/grundlagen/layout",
+        "docId": "layout"
+      },
+      {
+        "type": "link",
+        "label": "correct_typography",
+        "href": "/grundlagen/correct_typography",
+        "docId": "correct_typography"
+      },
+      {
+        "type": "link",
+        "label": "Wissenschaftliches Schreiben",
+        "href": "/grundlagen/wissenschaftlich",
+        "docId": "wissenschaftlich"
+      }
+    ]
+  },
+  "docs": {
+    "bibliography": {
+      "id": "bibliography",
+      "title": "bibliography",
+      "description": "a",
+      "sidebar": "grundlagen"
+    },
+    "correct_typography": {
+      "id": "correct_typography",
+      "title": "correct_typography",
+      "description": "a",
+      "sidebar": "grundlagen"
+    },
+    "dateistruktur": {
+      "id": "dateistruktur",
+      "title": "Dateistruktur",
+      "description": "Die Preamble ist der Bereich, des LaTeX-Dokuments, der vor dem Befehl \\begin sich befindet.",
+      "sidebar": "grundlagen"
+    },
+    "dokument_struktur": {
+      "id": "dokument_struktur",
+      "title": "dokument_struktur",
+      "description": "a"
+    },
+    "einleitung": {
+      "id": "einleitung",
+      "title": "Einleitung",
+      "description": "Ziel ?",
+      "sidebar": "grundlagen"
+    },
+    "equations": {
+      "id": "equations",
+      "title": "Gleichungen",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "figure": {
+      "id": "figure",
+      "title": "Abbildungen",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "installation": {
+      "id": "installation",
+      "title": "installation",
+      "description": "https://texwelt.de/fragen/11038/wie-installiere-ich-latex",
+      "sidebar": "grundlagen"
+    },
+    "installation-mactex": {
+      "id": "installation-mactex",
+      "title": "installation-mactex",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "installation-miktex": {
+      "id": "installation-miktex",
+      "title": "installation-miktex",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "installation-texlive": {
+      "id": "installation-texlive",
+      "title": "installation-texlive",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "installation-texmaker-texstudio": {
+      "id": "installation-texmaker-texstudio",
+      "title": "installation-texmaker-texstudio",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "installation-vscode": {
+      "id": "installation-vscode",
+      "title": "installation-vscode",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "layout": {
+      "id": "layout",
+      "title": "Seitenlayout",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "listings": {
+      "id": "listings",
+      "title": "Programmcodes",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "mathematik": {
+      "id": "mathematik",
+      "title": "mathematik",
+      "description": "a",
+      "sidebar": "grundlagen"
+    },
+    "referenz": {
+      "id": "referenz",
+      "title": "referenz",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "table": {
+      "id": "table",
+      "title": "Tabellen",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "text": {
+      "id": "text",
+      "title": "text",
+      "description": "a",
+      "sidebar": "grundlagen"
+    },
+    "umgebungen": {
+      "id": "umgebungen",
+      "title": "umgebungen",
+      "description": "a",
+      "sidebar": "grundlagen"
+    },
+    "units": {
+      "id": "units",
+      "title": "(Physikalische) Einheiten verwenden",
+      "description": ""
+    },
+    "verzeichnisse": {
+      "id": "verzeichnisse",
+      "title": "verzeichnisse",
+      "description": "",
+      "sidebar": "grundlagen"
+    },
+    "wissenschaftlich": {
+      "id": "wissenschaftlich",
+      "title": "Wissenschaftliches Schreiben",
+      "description": "",
+      "sidebar": "grundlagen"
+    }
+  }
+}

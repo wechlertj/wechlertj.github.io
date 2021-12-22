@@ -1,0 +1,22 @@
+{
+  "unversionedId": "installation",
+  "id": "installation",
+  "title": "installation",
+  "description": "https://texwelt.de/fragen/11038/wie-installiere-ich-latex",
+  "source": "@site/latex/grundlagen/installation.mdx",
+  "sourceDirName": ".",
+  "slug": "/installation",
+  "permalink": "/grundlagen/installation",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "Einleitung",
+    "permalink": "/grundlagen/einleitung"
+  },
+  "next": {
+    "title": "installation-miktex",
+    "permalink": "/grundlagen/installation-miktex"
+  }
+}

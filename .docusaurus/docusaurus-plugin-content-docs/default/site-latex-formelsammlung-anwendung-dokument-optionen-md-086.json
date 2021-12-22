@@ -1,0 +1,14 @@
+{
+  "unversionedId": "formelsammlung/anwendung/dokument_optionen",
+  "id": "formelsammlung/anwendung/dokument_optionen",
+  "title": "dokument_optionen",
+  "description": "",
+  "source": "@site/latex/formelsammlung/anwendung/dokument_optionen.md",
+  "sourceDirName": "formelsammlung/anwendung",
+  "slug": "/formelsammlung/anwendung/dokument_optionen",
+  "permalink": "/latex/formelsammlung/anwendung/dokument_optionen",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/formelsammlung/anwendung/dokument_optionen.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

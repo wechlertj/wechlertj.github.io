@@ -1,0 +1,23 @@
+{
+  "unversionedId": "figure",
+  "id": "figure",
+  "title": "Abbildungen",
+  "description": "",
+  "source": "@site/latex/grundlagen/figure.md",
+  "sourceDirName": ".",
+  "slug": "/figure",
+  "permalink": "/latex/figure",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/figure.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "umgebungen",
+    "permalink": "/latex/umgebungen"
+  },
+  "next": {
+    "title": "table",
+    "permalink": "/latex/table"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "table",
+  "id": "table",
+  "title": "Tabellen",
+  "description": "",
+  "source": "@site/latex/grundlagen/table.md",
+  "sourceDirName": ".",
+  "slug": "/table",
+  "permalink": "/grundlagen/table",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "Abbildungen",
+    "permalink": "/grundlagen/figure"
+  },
+  "next": {
+    "title": "Gleichungen",
+    "permalink": "/grundlagen/equations"
+  }
+}

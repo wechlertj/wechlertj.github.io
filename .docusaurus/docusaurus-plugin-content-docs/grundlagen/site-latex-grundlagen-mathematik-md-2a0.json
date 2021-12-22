@@ -1,0 +1,22 @@
+{
+  "unversionedId": "mathematik",
+  "id": "mathematik",
+  "title": "mathematik",
+  "description": "a",
+  "source": "@site/latex/grundlagen/mathematik.md",
+  "sourceDirName": ".",
+  "slug": "/mathematik",
+  "permalink": "/grundlagen/mathematik",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "text",
+    "permalink": "/grundlagen/text"
+  },
+  "next": {
+    "title": "umgebungen",
+    "permalink": "/grundlagen/umgebungen"
+  }
+}

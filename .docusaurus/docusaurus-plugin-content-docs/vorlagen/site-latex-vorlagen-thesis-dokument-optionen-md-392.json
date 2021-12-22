@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/dokument_optionen",
+  "id": "thesis/dokument_optionen",
+  "title": "dokument_optionen",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/dokument_optionen.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/dokument_optionen",
+  "permalink": "/vorlagen/thesis/dokument_optionen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

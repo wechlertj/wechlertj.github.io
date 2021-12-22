@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/tagebuch/uebersicht",
+  "id": "vorlagen/tagebuch/uebersicht",
+  "title": "uebersicht",
+  "description": "",
+  "source": "@site/latex/vorlagen/tagebuch/uebersicht.md",
+  "sourceDirName": "vorlagen/tagebuch",
+  "slug": "/vorlagen/tagebuch/uebersicht",
+  "permalink": "/latex/vorlagen/tagebuch/uebersicht",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/tagebuch/uebersicht.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

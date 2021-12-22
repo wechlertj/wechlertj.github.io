@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/anwendung/dokument_optionen",
+  "id": "thesis/anwendung/dokument_optionen",
+  "title": "dokument_optionen",
+  "description": "",
+  "source": "@site/vorlagen/thesis/anwendung/dokument_optionen.md",
+  "sourceDirName": "thesis/anwendung",
+  "slug": "/thesis/anwendung/dokument_optionen",
+  "permalink": "/vorlagen/thesis/anwendung/dokument_optionen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

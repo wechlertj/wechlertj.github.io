@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/tagebuch/dokumentklasse/pakete",
+  "id": "vorlagen/tagebuch/dokumentklasse/pakete",
+  "title": "pakete",
+  "description": "",
+  "source": "@site/latex/vorlagen/tagebuch/dokumentklasse/pakete.md",
+  "sourceDirName": "vorlagen/tagebuch/dokumentklasse",
+  "slug": "/vorlagen/tagebuch/dokumentklasse/pakete",
+  "permalink": "/latex/vorlagen/tagebuch/dokumentklasse/pakete",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/tagebuch/dokumentklasse/pakete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

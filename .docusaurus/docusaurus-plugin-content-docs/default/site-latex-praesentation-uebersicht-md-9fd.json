@@ -1,0 +1,14 @@
+{
+  "unversionedId": "praesentation/uebersicht",
+  "id": "praesentation/uebersicht",
+  "title": "uebersicht",
+  "description": "",
+  "source": "@site/latex/praesentation/uebersicht.md",
+  "sourceDirName": "praesentation",
+  "slug": "/praesentation/uebersicht",
+  "permalink": "/latex/praesentation/uebersicht",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/praesentation/uebersicht.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

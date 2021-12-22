@@ -1,0 +1,23 @@
+{
+  "unversionedId": "text",
+  "id": "text",
+  "title": "text",
+  "description": "a",
+  "source": "@site/latex/grundlagen/text.md",
+  "sourceDirName": ".",
+  "slug": "/text",
+  "permalink": "/latex/text",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/text.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "Dateistruktur",
+    "permalink": "/latex/dateistruktur"
+  },
+  "next": {
+    "title": "umgebungen",
+    "permalink": "/latex/umgebungen"
+  }
+}

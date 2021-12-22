@@ -1,0 +1,23 @@
+{
+  "unversionedId": "listings",
+  "id": "listings",
+  "title": "listings",
+  "description": "",
+  "source": "@site/latex/grundlagen/listings.md",
+  "sourceDirName": ".",
+  "slug": "/listings",
+  "permalink": "/latex/listings",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/listings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "table",
+    "permalink": "/latex/table"
+  },
+  "next": {
+    "title": "math",
+    "permalink": "/latex/math"
+  }
+}

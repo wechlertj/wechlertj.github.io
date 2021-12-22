@@ -1,0 +1,13 @@
+{
+  "unversionedId": "formelsammlung/anwendung/dokument_optionen",
+  "id": "formelsammlung/anwendung/dokument_optionen",
+  "title": "dokument_optionen",
+  "description": "",
+  "source": "@site/vorlagen/formelsammlung/anwendung/dokument_optionen.md",
+  "sourceDirName": "formelsammlung/anwendung",
+  "slug": "/formelsammlung/anwendung/dokument_optionen",
+  "permalink": "/grundlagen/formelsammlung/anwendung/dokument_optionen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

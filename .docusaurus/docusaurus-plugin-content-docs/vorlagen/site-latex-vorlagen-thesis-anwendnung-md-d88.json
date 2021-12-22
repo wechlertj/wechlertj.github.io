@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/anwendnung",
+  "id": "thesis/anwendnung",
+  "title": "anwendnung",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/anwendnung.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/anwendnung",
+  "permalink": "/vorlagen/thesis/anwendnung",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

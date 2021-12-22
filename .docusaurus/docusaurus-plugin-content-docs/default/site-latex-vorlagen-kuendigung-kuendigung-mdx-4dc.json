@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/kuendigung/kuendigung",
+  "id": "vorlagen/kuendigung/kuendigung",
+  "title": "kuendigung",
+  "description": "",
+  "source": "@site/latex/vorlagen/kuendigung/kuendigung.mdx",
+  "sourceDirName": "vorlagen/kuendigung",
+  "slug": "/vorlagen/kuendigung/",
+  "permalink": "/latex/vorlagen/kuendigung/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/kuendigung/kuendigung.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

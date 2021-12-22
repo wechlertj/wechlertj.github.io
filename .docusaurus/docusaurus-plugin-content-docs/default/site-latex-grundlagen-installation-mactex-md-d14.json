@@ -1,0 +1,23 @@
+{
+  "unversionedId": "installation-mactex",
+  "id": "installation-mactex",
+  "title": "installation-mactex",
+  "description": "",
+  "source": "@site/latex/grundlagen/installation-mactex.md",
+  "sourceDirName": ".",
+  "slug": "/installation-mactex",
+  "permalink": "/latex/installation-mactex",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/installation-mactex.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "installation-texlive",
+    "permalink": "/latex/installation-texlive"
+  },
+  "next": {
+    "title": "installation-texmaker-texstudio",
+    "permalink": "/latex/installation-texmaker-texstudio"
+  }
+}

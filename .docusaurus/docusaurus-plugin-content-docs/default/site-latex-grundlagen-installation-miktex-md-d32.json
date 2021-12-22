@@ -1,0 +1,23 @@
+{
+  "unversionedId": "installation-miktex",
+  "id": "installation-miktex",
+  "title": "installation-miktex",
+  "description": "",
+  "source": "@site/latex/grundlagen/installation-miktex.md",
+  "sourceDirName": ".",
+  "slug": "/installation-miktex",
+  "permalink": "/latex/installation-miktex",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/installation-miktex.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "installation",
+    "permalink": "/latex/installation"
+  },
+  "next": {
+    "title": "installation-texlive",
+    "permalink": "/latex/installation-texlive"
+  }
+}

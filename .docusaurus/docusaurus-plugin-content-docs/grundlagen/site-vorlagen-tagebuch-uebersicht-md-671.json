@@ -1,0 +1,13 @@
+{
+  "unversionedId": "tagebuch/uebersicht",
+  "id": "tagebuch/uebersicht",
+  "title": "uebersicht",
+  "description": "",
+  "source": "@site/vorlagen/tagebuch/uebersicht.md",
+  "sourceDirName": "tagebuch",
+  "slug": "/tagebuch/uebersicht",
+  "permalink": "/grundlagen/tagebuch/uebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

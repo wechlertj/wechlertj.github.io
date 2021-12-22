@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/dokument_struktur",
+  "id": "thesis/dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/dokument_struktur.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/dokument_struktur",
+  "permalink": "/vorlagen/thesis/dokument_struktur",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

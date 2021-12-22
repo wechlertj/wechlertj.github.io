@@ -1,0 +1,22 @@
+{
+  "unversionedId": "installation-texlive",
+  "id": "installation-texlive",
+  "title": "installation-texlive",
+  "description": "",
+  "source": "@site/grundlagen/installation-texlive.md",
+  "sourceDirName": ".",
+  "slug": "/installation-texlive",
+  "permalink": "/grundlagen/installation-texlive",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "installation-miktex",
+    "permalink": "/grundlagen/installation-miktex"
+  },
+  "next": {
+    "title": "installation-mactex",
+    "permalink": "/grundlagen/installation-mactex"
+  }
+}

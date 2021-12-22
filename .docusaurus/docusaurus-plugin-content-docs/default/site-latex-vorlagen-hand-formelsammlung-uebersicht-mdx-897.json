@@ -1,0 +1,16 @@
+{
+  "unversionedId": "vorlagen/hand_formelsammlung/uebersicht",
+  "id": "vorlagen/hand_formelsammlung/uebersicht",
+  "title": "Handschriftliche Formelsammlung",
+  "description": "Dieses LaTeX Dokument kann sowhl eine gepunktete als auch eine karriertes PDF erstellen. Ziel hier bei ist es, eine Druckvorlage zu generieren, die als Schreibhilfe für handgeschrieben Formelsammlungen diene soll.",
+  "source": "@site/latex/vorlagen/hand_formelsammlung/uebersicht.mdx",
+  "sourceDirName": "vorlagen/hand_formelsammlung",
+  "slug": "/vorlagen/hand_formelsammlung/uebersicht",
+  "permalink": "/latex/vorlagen/hand_formelsammlung/uebersicht",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/hand_formelsammlung/uebersicht.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "authors": "TJ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/thesis/dokumentklasse/pakete",
+  "id": "vorlagen/thesis/dokumentklasse/pakete",
+  "title": "pakete",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/dokumentklasse/pakete.md",
+  "sourceDirName": "vorlagen/thesis/dokumentklasse",
+  "slug": "/vorlagen/thesis/dokumentklasse/pakete",
+  "permalink": "/latex/vorlagen/thesis/dokumentklasse/pakete",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/thesis/dokumentklasse/pakete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

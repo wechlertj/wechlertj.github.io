@@ -1,0 +1,14 @@
+{
+  "unversionedId": "praesentation/anwendung/dokument_struktur",
+  "id": "praesentation/anwendung/dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "",
+  "source": "@site/latex/praesentation/anwendung/dokument_struktur.md",
+  "sourceDirName": "praesentation/anwendung",
+  "slug": "/praesentation/anwendung/dokument_struktur",
+  "permalink": "/latex/praesentation/anwendung/dokument_struktur",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/praesentation/anwendung/dokument_struktur.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

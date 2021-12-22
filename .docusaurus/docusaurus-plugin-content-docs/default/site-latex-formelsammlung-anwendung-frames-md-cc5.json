@@ -1,0 +1,14 @@
+{
+  "unversionedId": "formelsammlung/anwendung/frames",
+  "id": "formelsammlung/anwendung/frames",
+  "title": "frames",
+  "description": "",
+  "source": "@site/latex/formelsammlung/anwendung/frames.md",
+  "sourceDirName": "formelsammlung/anwendung",
+  "slug": "/formelsammlung/anwendung/frames",
+  "permalink": "/latex/formelsammlung/anwendung/frames",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/formelsammlung/anwendung/frames.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

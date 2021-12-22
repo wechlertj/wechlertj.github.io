@@ -1,0 +1,22 @@
+{
+  "unversionedId": "equations",
+  "id": "equations",
+  "title": "Gleichungen",
+  "description": "",
+  "source": "@site/latex/grundlagen/equations.md",
+  "sourceDirName": ".",
+  "slug": "/equations",
+  "permalink": "/grundlagen/equations",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "Tabellen",
+    "permalink": "/grundlagen/table"
+  },
+  "next": {
+    "title": "Programmcodes",
+    "permalink": "/grundlagen/listings"
+  }
+}

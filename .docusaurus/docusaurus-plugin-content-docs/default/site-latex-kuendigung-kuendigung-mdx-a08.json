@@ -1,0 +1,14 @@
+{
+  "unversionedId": "kuendigung/kuendigung",
+  "id": "kuendigung/kuendigung",
+  "title": "kuendigung",
+  "description": "",
+  "source": "@site/latex/kuendigung/kuendigung.mdx",
+  "sourceDirName": "kuendigung",
+  "slug": "/kuendigung/",
+  "permalink": "/latex/kuendigung/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/kuendigung/kuendigung.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

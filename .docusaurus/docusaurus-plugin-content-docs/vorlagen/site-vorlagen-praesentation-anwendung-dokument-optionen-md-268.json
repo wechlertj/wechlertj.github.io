@@ -1,0 +1,13 @@
+{
+  "unversionedId": "praesentation/anwendung/dokument_optionen",
+  "id": "praesentation/anwendung/dokument_optionen",
+  "title": "dokument_optionen",
+  "description": "",
+  "source": "@site/vorlagen/praesentation/anwendung/dokument_optionen.md",
+  "sourceDirName": "praesentation/anwendung",
+  "slug": "/praesentation/anwendung/dokument_optionen",
+  "permalink": "/vorlagen/praesentation/anwendung/dokument_optionen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "installation-miktex",
+  "id": "installation-miktex",
+  "title": "installation-miktex",
+  "description": "",
+  "source": "@site/latex/grundlagen/installation-miktex.md",
+  "sourceDirName": ".",
+  "slug": "/installation-miktex",
+  "permalink": "/grundlagen/installation-miktex",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "installation",
+    "permalink": "/grundlagen/installation"
+  },
+  "next": {
+    "title": "installation-texlive",
+    "permalink": "/grundlagen/installation-texlive"
+  }
+}

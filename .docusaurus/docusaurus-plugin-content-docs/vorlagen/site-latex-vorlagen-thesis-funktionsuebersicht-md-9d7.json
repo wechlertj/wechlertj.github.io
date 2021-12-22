@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/funktionsuebersicht",
+  "id": "thesis/funktionsuebersicht",
+  "title": "funktionsuebersicht",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/funktionsuebersicht.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/funktionsuebersicht",
+  "permalink": "/vorlagen/thesis/funktionsuebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

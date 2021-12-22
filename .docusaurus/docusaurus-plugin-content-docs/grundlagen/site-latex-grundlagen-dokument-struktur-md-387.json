@@ -1,0 +1,13 @@
+{
+  "unversionedId": "dokument_struktur",
+  "id": "dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "a",
+  "source": "@site/latex/grundlagen/dokument_struktur.md",
+  "sourceDirName": ".",
+  "slug": "/dokument_struktur",
+  "permalink": "/grundlagen/dokument_struktur",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

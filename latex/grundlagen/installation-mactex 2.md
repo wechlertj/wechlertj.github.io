@@ -1,2 +1,0 @@
-# Installation MacTeX 
-## Kommt bald

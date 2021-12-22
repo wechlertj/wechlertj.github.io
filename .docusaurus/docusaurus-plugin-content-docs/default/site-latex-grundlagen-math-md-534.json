@@ -1,0 +1,23 @@
+{
+  "unversionedId": "math",
+  "id": "math",
+  "title": "math",
+  "description": "a",
+  "source": "@site/latex/grundlagen/math.md",
+  "sourceDirName": ".",
+  "slug": "/math",
+  "permalink": "/latex/math",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/grundlagen/math.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "grundlagen",
+  "previous": {
+    "title": "listings",
+    "permalink": "/latex/listings"
+  },
+  "next": {
+    "title": "(Physikalische) Einheiten verwenden",
+    "permalink": "/latex/units"
+  }
+}

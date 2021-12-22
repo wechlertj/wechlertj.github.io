@@ -1,0 +1,14 @@
+{
+  "unversionedId": "props/comingsoon",
+  "id": "props/comingsoon",
+  "title": "📄 Dokumentklasse erklärt (Kommt bald)",
+  "description": "",
+  "source": "@site/latex/props/comingsoon.md",
+  "sourceDirName": "props",
+  "slug": "/props/comingsoon",
+  "permalink": "/latex/props/comingsoon",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/props/comingsoon.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

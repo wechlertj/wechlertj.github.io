@@ -1,0 +1,13 @@
+{
+  "unversionedId": "dokumentklasse/pakete",
+  "id": "dokumentklasse/pakete",
+  "title": "pakete",
+  "description": "",
+  "source": "@site/latex/vorlagen/dokumentklasse/pakete.md",
+  "sourceDirName": "dokumentklasse",
+  "slug": "/dokumentklasse/pakete",
+  "permalink": "/vorlagen/dokumentklasse/pakete",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

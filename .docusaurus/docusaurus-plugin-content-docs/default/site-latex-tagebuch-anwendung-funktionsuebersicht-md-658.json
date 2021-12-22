@@ -1,0 +1,14 @@
+{
+  "unversionedId": "tagebuch/anwendung/funktionsuebersicht",
+  "id": "tagebuch/anwendung/funktionsuebersicht",
+  "title": "funktionsuebersicht",
+  "description": "",
+  "source": "@site/latex/tagebuch/anwendung/funktionsuebersicht.md",
+  "sourceDirName": "tagebuch/anwendung",
+  "slug": "/tagebuch/anwendung/funktionsuebersicht",
+  "permalink": "/latex/tagebuch/anwendung/funktionsuebersicht",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/tagebuch/anwendung/funktionsuebersicht.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "brief/brief",
+  "id": "brief/brief",
+  "title": "brief",
+  "description": "",
+  "source": "@site/latex/brief/brief.mdx",
+  "sourceDirName": "brief",
+  "slug": "/brief/",
+  "permalink": "/latex/brief/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/brief/brief.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

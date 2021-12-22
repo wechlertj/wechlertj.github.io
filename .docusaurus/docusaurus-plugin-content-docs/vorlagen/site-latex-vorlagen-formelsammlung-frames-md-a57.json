@@ -1,0 +1,13 @@
+{
+  "unversionedId": "formelsammlung/frames",
+  "id": "formelsammlung/frames",
+  "title": "frames",
+  "description": "",
+  "source": "@site/latex/vorlagen/formelsammlung/frames.md",
+  "sourceDirName": "formelsammlung",
+  "slug": "/formelsammlung/frames",
+  "permalink": "/vorlagen/formelsammlung/frames",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

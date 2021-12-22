@@ -1,0 +1,13 @@
+{
+  "unversionedId": "praesentation/funktionsuebersicht",
+  "id": "praesentation/funktionsuebersicht",
+  "title": "funktionsuebersicht",
+  "description": "",
+  "source": "@site/latex/vorlagen/praesentation/funktionsuebersicht.md",
+  "sourceDirName": "praesentation",
+  "slug": "/praesentation/funktionsuebersicht",
+  "permalink": "/vorlagen/praesentation/funktionsuebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

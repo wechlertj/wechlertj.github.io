@@ -1,0 +1,13 @@
+{
+  "unversionedId": "kuendigung/kuendigung",
+  "id": "kuendigung/kuendigung",
+  "title": "kuendigung",
+  "description": "",
+  "source": "@site/vorlagen/kuendigung/kuendigung.mdx",
+  "sourceDirName": "kuendigung",
+  "slug": "/kuendigung/",
+  "permalink": "/vorlagen/kuendigung/",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

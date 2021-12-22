@@ -1,0 +1,21 @@
+{
+  "unversionedId": "uebersicht",
+  "id": "uebersicht",
+  "title": "Übersicht",
+  "description": "Hier wird eine Übersicht geboten was in der Dokumentation alles enthalten ist.",
+  "source": "@site/grundlagen/uebersicht.mdx",
+  "sourceDirName": ".",
+  "slug": "/uebersicht",
+  "permalink": "/grundlagen/uebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Übersicht",
+    "description": "Hier wird eine Übersicht geboten was in der Dokumentation alles enthalten ist."
+  },
+  "sidebar": "a",
+  "next": {
+    "title": "Einleitung",
+    "permalink": "/grundlagen/einleitung"
+  }
+}

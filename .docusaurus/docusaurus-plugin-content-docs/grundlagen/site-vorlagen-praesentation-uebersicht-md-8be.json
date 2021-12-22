@@ -1,0 +1,13 @@
+{
+  "unversionedId": "praesentation/uebersicht",
+  "id": "praesentation/uebersicht",
+  "title": "uebersicht",
+  "description": "",
+  "source": "@site/vorlagen/praesentation/uebersicht.md",
+  "sourceDirName": "praesentation",
+  "slug": "/praesentation/uebersicht",
+  "permalink": "/grundlagen/praesentation/uebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "hand_formelsammlung",
+  "id": "hand_formelsammlung",
+  "title": "👨‍🎓 Handschriftliche Formelsammlung",
+  "description": "Dieses LaTeX Dokument kann sowhl eine gepunktete als auch eine karriertes PDF erstellen. Ziel hier bei ist es, eine Druckvorlage zu generieren, die als Schreibhilfe für handgeschrieben Formelsammlungen diene soll.",
+  "source": "@site/latex/vorlagen/hand_formelsammlung.mdx",
+  "sourceDirName": ".",
+  "slug": "/hand_formelsammlung",
+  "permalink": "/vorlagen/hand_formelsammlung",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "authors": "TJ"
+  },
+  "sidebar": "latex",
+  "previous": {
+    "title": "🔜 Formelsammlung",
+    "permalink": "/vorlagen/formelsammlung/uebersicht"
+  },
+  "next": {
+    "title": "🔜 Lebenslauf",
+    "permalink": "/vorlagen/lebenslauf"
+  }
+}

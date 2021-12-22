@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/praesentation/dokumentklasse/pakete",
+  "id": "vorlagen/praesentation/dokumentklasse/pakete",
+  "title": "pakete",
+  "description": "",
+  "source": "@site/latex/vorlagen/praesentation/dokumentklasse/pakete.md",
+  "sourceDirName": "vorlagen/praesentation/dokumentklasse",
+  "slug": "/vorlagen/praesentation/dokumentklasse/pakete",
+  "permalink": "/latex/vorlagen/praesentation/dokumentklasse/pakete",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/praesentation/dokumentklasse/pakete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

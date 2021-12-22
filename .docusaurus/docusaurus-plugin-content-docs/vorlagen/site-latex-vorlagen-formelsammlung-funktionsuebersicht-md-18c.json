@@ -1,0 +1,13 @@
+{
+  "unversionedId": "formelsammlung/funktionsuebersicht",
+  "id": "formelsammlung/funktionsuebersicht",
+  "title": "funktionsuebersicht",
+  "description": "",
+  "source": "@site/latex/vorlagen/formelsammlung/funktionsuebersicht.md",
+  "sourceDirName": "formelsammlung",
+  "slug": "/formelsammlung/funktionsuebersicht",
+  "permalink": "/vorlagen/formelsammlung/funktionsuebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

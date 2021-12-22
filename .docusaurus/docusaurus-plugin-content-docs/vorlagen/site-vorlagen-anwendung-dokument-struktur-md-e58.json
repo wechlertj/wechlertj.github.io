@@ -1,0 +1,13 @@
+{
+  "unversionedId": "anwendung/dokument_struktur",
+  "id": "anwendung/dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "",
+  "source": "@site/vorlagen/anwendung/dokument_struktur.md",
+  "sourceDirName": "anwendung",
+  "slug": "/anwendung/dokument_struktur",
+  "permalink": "/vorlagen/anwendung/dokument_struktur",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

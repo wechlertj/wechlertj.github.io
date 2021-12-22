@@ -1,0 +1,13 @@
+{
+  "unversionedId": "thesis/optionen",
+  "id": "thesis/optionen",
+  "title": "Optionen",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/optionen.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/optionen",
+  "permalink": "/vorlagen/thesis/optionen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

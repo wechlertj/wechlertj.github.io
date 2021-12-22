@@ -1,0 +1,18 @@
+{
+  "unversionedId": "brief",
+  "id": "brief",
+  "title": "🔜 Brief",
+  "description": "",
+  "source": "@site/latex/vorlagen/brief.mdx",
+  "sourceDirName": ".",
+  "slug": "/brief",
+  "permalink": "/vorlagen/brief",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "latex",
+  "previous": {
+    "title": "🔜 Anschreiben",
+    "permalink": "/vorlagen/anschreiben"
+  }
+}

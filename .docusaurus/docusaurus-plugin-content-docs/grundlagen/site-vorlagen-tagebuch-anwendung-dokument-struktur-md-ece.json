@@ -1,0 +1,13 @@
+{
+  "unversionedId": "tagebuch/anwendung/dokument_struktur",
+  "id": "tagebuch/anwendung/dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "",
+  "source": "@site/vorlagen/tagebuch/anwendung/dokument_struktur.md",
+  "sourceDirName": "tagebuch/anwendung",
+  "slug": "/tagebuch/anwendung/dokument_struktur",
+  "permalink": "/grundlagen/tagebuch/anwendung/dokument_struktur",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

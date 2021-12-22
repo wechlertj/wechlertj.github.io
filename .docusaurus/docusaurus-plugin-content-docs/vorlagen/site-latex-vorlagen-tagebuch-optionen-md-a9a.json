@@ -1,0 +1,13 @@
+{
+  "unversionedId": "tagebuch/optionen",
+  "id": "tagebuch/optionen",
+  "title": "optionen",
+  "description": "",
+  "source": "@site/latex/vorlagen/tagebuch/optionen.md",
+  "sourceDirName": "tagebuch",
+  "slug": "/tagebuch/optionen",
+  "permalink": "/vorlagen/tagebuch/optionen",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

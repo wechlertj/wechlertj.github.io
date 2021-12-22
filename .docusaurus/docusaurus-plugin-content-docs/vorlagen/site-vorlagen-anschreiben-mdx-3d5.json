@@ -1,0 +1,14 @@
+{
+  "unversionedId": "anschreiben",
+  "id": "anschreiben",
+  "title": "anschreiben",
+  "description": "",
+  "source": "@site/vorlagen/anschreiben.mdx",
+  "sourceDirName": ".",
+  "slug": "/anschreiben",
+  "permalink": "/vorlagen/anschreiben",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "latex"
+}

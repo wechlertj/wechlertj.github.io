@@ -1,0 +1,13 @@
+{
+  "unversionedId": "tagebuch/anwendung/funktionsuebersicht",
+  "id": "tagebuch/anwendung/funktionsuebersicht",
+  "title": "funktionsuebersicht",
+  "description": "",
+  "source": "@site/latex/vorlagen/tagebuch/anwendung/funktionsuebersicht.md",
+  "sourceDirName": "tagebuch/anwendung",
+  "slug": "/tagebuch/anwendung/funktionsuebersicht",
+  "permalink": "/vorlagen/tagebuch/anwendung/funktionsuebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

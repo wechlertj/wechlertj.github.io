@@ -1,0 +1,22 @@
+{
+  "unversionedId": "thesis/thesis_uebersicht",
+  "id": "thesis/thesis_uebersicht",
+  "title": "thesis_uebersicht",
+  "description": "",
+  "source": "@site/latex/vorlagen/thesis/thesis_uebersicht.md",
+  "sourceDirName": "thesis",
+  "slug": "/thesis/thesis_uebersicht",
+  "permalink": "/vorlagen/thesis/thesis_uebersicht",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "latex",
+  "previous": {
+    "title": "anschreiben",
+    "permalink": "/vorlagen/anschreiben"
+  },
+  "next": {
+    "title": "thesis_dokument_optionen",
+    "permalink": "/vorlagen/thesis/thesis_dokument_optionen"
+  }
+}

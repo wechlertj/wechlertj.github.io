@@ -1,0 +1,14 @@
+{
+  "unversionedId": "vorlagen/praesentation/anwendung/frames",
+  "id": "vorlagen/praesentation/anwendung/frames",
+  "title": "frames",
+  "description": "",
+  "source": "@site/latex/vorlagen/praesentation/anwendung/frames.md",
+  "sourceDirName": "vorlagen/praesentation/anwendung",
+  "slug": "/vorlagen/praesentation/anwendung/frames",
+  "permalink": "/latex/vorlagen/praesentation/anwendung/frames",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/vorlagen/praesentation/anwendung/frames.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

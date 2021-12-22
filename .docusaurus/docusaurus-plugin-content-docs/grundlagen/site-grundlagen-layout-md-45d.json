@@ -1,0 +1,22 @@
+{
+  "unversionedId": "layout",
+  "id": "layout",
+  "title": "Seitenlayout",
+  "description": "",
+  "source": "@site/grundlagen/layout.md",
+  "sourceDirName": ".",
+  "slug": "/layout",
+  "permalink": "/grundlagen/layout",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "a",
+  "previous": {
+    "title": "verzeichnisse",
+    "permalink": "/grundlagen/verzeichnisse"
+  },
+  "next": {
+    "title": "correct_typography",
+    "permalink": "/grundlagen/correct_typography"
+  }
+}

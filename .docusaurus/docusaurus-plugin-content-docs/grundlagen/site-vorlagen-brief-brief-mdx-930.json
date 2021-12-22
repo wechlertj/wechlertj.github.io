@@ -1,0 +1,13 @@
+{
+  "unversionedId": "brief/brief",
+  "id": "brief/brief",
+  "title": "brief",
+  "description": "",
+  "source": "@site/vorlagen/brief/brief.mdx",
+  "sourceDirName": "brief",
+  "slug": "/brief/",
+  "permalink": "/grundlagen/brief/",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,223 @@
+{
+  "pluginId": "vorlagen",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "latex": [
+      {
+        "type": "link",
+        "label": "Übersicht",
+        "href": "/vorlagen/uebersicht",
+        "docId": "uebersicht"
+      },
+      {
+        "type": "link",
+        "label": "🔜 Thesis / Ausarbeitung",
+        "href": "/vorlagen/thesis/uebersicht",
+        "docId": "thesis/uebersicht"
+      },
+      {
+        "type": "link",
+        "label": "🔜 Tagebucheintrag / Artikel",
+        "href": "/vorlagen/tagebuch/uebersicht",
+        "docId": "tagebuch/uebersicht"
+      },
+      {
+        "type": "link",
+        "label": "🔜 Präsentation",
+        "href": "/vorlagen/praesentation/uebersicht",
+        "docId": "praesentation/uebersicht"
+      },
+      {
+        "type": "link",
+        "label": "🔜 Formelsammlung",
+        "href": "/vorlagen/formelsammlung/uebersicht",
+        "docId": "formelsammlung/uebersicht"
+      },
+      {
+        "type": "link",
+        "label": "👨‍🎓 Handschriftliche Formelsammlung",
+        "href": "/vorlagen/hand_formelsammlung",
+        "docId": "hand_formelsammlung"
+      },
+      {
+        "type": "link",
+        "label": "🔜 Lebenslauf",
+        "href": "/vorlagen/lebenslauf",
+        "docId": "lebenslauf"
+      },
+      {
+        "type": "link",
+        "label": "🔜 Anschreiben",
+        "href": "/vorlagen/anschreiben",
+        "docId": "anschreiben"
+      },
+      {
+        "type": "link",
+        "label": "🔜 Brief",
+        "href": "/vorlagen/brief",
+        "docId": "brief"
+      }
+    ]
+  },
+  "docs": {
+    "anschreiben": {
+      "id": "anschreiben",
+      "title": "🔜 Anschreiben",
+      "description": "",
+      "sidebar": "latex"
+    },
+    "brief": {
+      "id": "brief",
+      "title": "🔜 Brief",
+      "description": "",
+      "sidebar": "latex"
+    },
+    "formelsammlung/dokument_struktur": {
+      "id": "formelsammlung/dokument_struktur",
+      "title": "dokument_struktur",
+      "description": ""
+    },
+    "formelsammlung/frames": {
+      "id": "formelsammlung/frames",
+      "title": "frames",
+      "description": ""
+    },
+    "formelsammlung/funktionsuebersicht": {
+      "id": "formelsammlung/funktionsuebersicht",
+      "title": "funktionsuebersicht",
+      "description": ""
+    },
+    "formelsammlung/optionen": {
+      "id": "formelsammlung/optionen",
+      "title": "optionen",
+      "description": ""
+    },
+    "formelsammlung/pakete": {
+      "id": "formelsammlung/pakete",
+      "title": "pakete",
+      "description": ""
+    },
+    "formelsammlung/uebersicht": {
+      "id": "formelsammlung/uebersicht",
+      "title": "🔜 Formelsammlung",
+      "description": "",
+      "sidebar": "latex"
+    },
+    "hand_formelsammlung": {
+      "id": "hand_formelsammlung",
+      "title": "👨‍🎓 Handschriftliche Formelsammlung",
+      "description": "Dieses LaTeX Dokument kann sowhl eine gepunktete als auch eine karriertes PDF erstellen. Ziel hier bei ist es, eine Druckvorlage zu generieren, die als Schreibhilfe für handgeschrieben Formelsammlungen diene soll.",
+      "sidebar": "latex"
+    },
+    "lebenslauf": {
+      "id": "lebenslauf",
+      "title": "🔜 Lebenslauf",
+      "description": "",
+      "sidebar": "latex"
+    },
+    "praesentation/dokument_struktur": {
+      "id": "praesentation/dokument_struktur",
+      "title": "dokument_struktur",
+      "description": ""
+    },
+    "praesentation/frames": {
+      "id": "praesentation/frames",
+      "title": "frames",
+      "description": ""
+    },
+    "praesentation/funktionsuebersicht": {
+      "id": "praesentation/funktionsuebersicht",
+      "title": "funktionsuebersicht",
+      "description": ""
+    },
+    "praesentation/optionen": {
+      "id": "praesentation/optionen",
+      "title": "optionen",
+      "description": ""
+    },
+    "praesentation/pakete": {
+      "id": "praesentation/pakete",
+      "title": "pakete",
+      "description": ""
+    },
+    "praesentation/uebersicht": {
+      "id": "praesentation/uebersicht",
+      "title": "🔜 Präsentation",
+      "description": "",
+      "sidebar": "latex"
+    },
+    "tagebuch/anwendung/dokument_struktur": {
+      "id": "tagebuch/anwendung/dokument_struktur",
+      "title": "dokument_struktur",
+      "description": ""
+    },
+    "tagebuch/anwendung/funktionsuebersicht": {
+      "id": "tagebuch/anwendung/funktionsuebersicht",
+      "title": "funktionsuebersicht",
+      "description": ""
+    },
+    "tagebuch/optionen": {
+      "id": "tagebuch/optionen",
+      "title": "optionen",
+      "description": ""
+    },
+    "tagebuch/pakete": {
+      "id": "tagebuch/pakete",
+      "title": "pakete",
+      "description": ""
+    },
+    "tagebuch/uebersicht": {
+      "id": "tagebuch/uebersicht",
+      "title": "🔜 Tagebucheintrag / Artikel",
+      "description": "Kommt bald",
+      "sidebar": "latex"
+    },
+    "thesis/anwendnung": {
+      "id": "thesis/anwendnung",
+      "title": "anwendnung",
+      "description": ""
+    },
+    "thesis/dokumentenklasse": {
+      "id": "thesis/dokumentenklasse",
+      "title": "dokumentenklasse",
+      "description": ""
+    },
+    "thesis/funktionsuebersicht": {
+      "id": "thesis/funktionsuebersicht",
+      "title": "funktionsuebersicht",
+      "description": ""
+    },
+    "thesis/optionen": {
+      "id": "thesis/optionen",
+      "title": "Optionen",
+      "description": ""
+    },
+    "thesis/pakete": {
+      "id": "thesis/pakete",
+      "title": "pakete",
+      "description": ""
+    },
+    "thesis/titleseite": {
+      "id": "thesis/titleseite",
+      "title": "titleseite",
+      "description": ""
+    },
+    "thesis/uebersicht": {
+      "id": "thesis/uebersicht",
+      "title": "🔜 Thesis / Ausarbeitung",
+      "description": "",
+      "sidebar": "latex"
+    },
+    "uebersicht": {
+      "id": "uebersicht",
+      "title": "Übersicht",
+      "description": "Hier wird eine Übersicht geboten was in der Dokumentation alles enthalten ist.",
+      "sidebar": "latex"
+    }
+  }
+}

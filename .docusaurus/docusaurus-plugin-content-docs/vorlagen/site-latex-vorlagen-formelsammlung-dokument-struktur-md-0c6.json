@@ -1,0 +1,13 @@
+{
+  "unversionedId": "formelsammlung/dokument_struktur",
+  "id": "formelsammlung/dokument_struktur",
+  "title": "dokument_struktur",
+  "description": "",
+  "source": "@site/latex/vorlagen/formelsammlung/dokument_struktur.md",
+  "sourceDirName": "formelsammlung",
+  "slug": "/formelsammlung/dokument_struktur",
+  "permalink": "/vorlagen/formelsammlung/dokument_struktur",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

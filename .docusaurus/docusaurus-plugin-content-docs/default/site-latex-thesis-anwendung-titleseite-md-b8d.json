@@ -1,0 +1,14 @@
+{
+  "unversionedId": "thesis/anwendung/titleseite",
+  "id": "thesis/anwendung/titleseite",
+  "title": "titleseite",
+  "description": "",
+  "source": "@site/latex/thesis/anwendung/titleseite.md",
+  "sourceDirName": "thesis/anwendung",
+  "slug": "/thesis/anwendung/titleseite",
+  "permalink": "/latex/thesis/anwendung/titleseite",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/latex/thesis/anwendung/titleseite.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

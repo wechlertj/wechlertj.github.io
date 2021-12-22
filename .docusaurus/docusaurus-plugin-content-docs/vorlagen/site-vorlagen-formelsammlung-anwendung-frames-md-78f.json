@@ -1,0 +1,13 @@
+{
+  "unversionedId": "formelsammlung/anwendung/frames",
+  "id": "formelsammlung/anwendung/frames",
+  "title": "frames",
+  "description": "",
+  "source": "@site/vorlagen/formelsammlung/anwendung/frames.md",
+  "sourceDirName": "formelsammlung/anwendung",
+  "slug": "/formelsammlung/anwendung/frames",
+  "permalink": "/vorlagen/formelsammlung/anwendung/frames",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
