@@ -4,8 +4,6 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-import { useHistory, useParams } from 'react-router-dom'
-import { BrowserRouter as Router,Route } from 'react-router-dom'
 import React, {memo} from 'react';
 import clsx from 'clsx';
 import Image from '@theme/IdealImage';

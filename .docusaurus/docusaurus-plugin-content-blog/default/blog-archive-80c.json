@@ -28,18 +28,11 @@
         "truncated": false,
         "authors": [
           {
-            "name": "Sébastien Lorber",
-            "title": "Docusaurus maintainer",
-            "url": "https://sebastienlorber.com",
-            "imageURL": "https://github.com/slorber.png",
-            "key": "slorber"
-          },
-          {
-            "name": "Yangshun Tay",
-            "title": "Front End Engineer @ Facebook",
-            "url": "https://github.com/yangshun",
-            "imageURL": "https://github.com/yangshun.png",
-            "key": "yangshun"
+            "name": "Tim-Jonas Wechler",
+            "title": "Student B.sc. Angewandte Physik",
+            "url": "https://github.com/wechlertj",
+            "imageURL": "https://github.com/wechlertj.png",
+            "key": "tj"
           }
         ],
         "nextItem": {
@@ -69,11 +62,11 @@
         "truncated": false,
         "authors": [
           {
-            "name": "Sébastien Lorber",
-            "title": "Docusaurus maintainer",
-            "url": "https://sebastienlorber.com",
-            "imageURL": "https://github.com/slorber.png",
-            "key": "slorber"
+            "name": "Tim-Jonas Wechler",
+            "title": "Student B.sc. Angewandte Physik",
+            "url": "https://github.com/wechlertj",
+            "imageURL": "https://github.com/wechlertj.png",
+            "key": "tj"
           }
         ],
         "prevItem": {
@@ -111,11 +104,11 @@
         "truncated": true,
         "authors": [
           {
-            "name": "Endilie Yacop Sucipto",
-            "title": "Maintainer of Docusaurus",
-            "url": "https://github.com/endiliey",
-            "imageURL": "https://github.com/endiliey.png",
-            "key": "endi"
+            "name": "Tim-Jonas Wechler",
+            "title": "Student B.sc. Angewandte Physik",
+            "url": "https://github.com/wechlertj",
+            "imageURL": "https://github.com/wechlertj.png",
+            "key": "tj"
           }
         ],
         "prevItem": {

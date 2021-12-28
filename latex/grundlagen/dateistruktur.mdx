@@ -1,12 +1,11 @@
 # Dateistruktur
-Die Preamble ist der Bereich, des LaTeX-Dokuments, der vor dem Befehl `\begin{document}` sich befindet.
 
-In der Preamble wird Dokumentenklasse festgelegt, Packete werden genannt, die in dem Dokument verwendet werden und alles weitere, dass das Dokument beschreibt. 
-Da die Preamble eine wichtige Rolle spielt, werde ich immer wieder auf diesen Begriff zurückgreifen.
+Ein LaTeX-Dokuement ist in zwei Bereiche unterteilt. Zum einen gibt es den bereich in dem alles konfiguriert dieser Berich nennt sich Preamble. Zum anderen gibt es den Bereich, in dem der Inhalt des Dokuments festgehalten wird.
+Die **Preamble** beginnt mit der Festlegung einer [Dokuementenklasse](#-dokumentklasse), gefolgt von [Paketen](#-pakete). Mit Pakete sind Erweiterungen zu verstehen, die Funktionen und Möglichkeiten dem Verfasser eines DOkuemnts hinzufügen.
+Der Bereich der Preamble endet mit dem Befehl `\begin{document}`, besser gesagt mit diesem Befehl und `\end{document}` wird der Bereich festgehalten, in dem sich der Inhalt des Dokuments befindet. 
 
 
-
-Um es euch besser vorzustellen. hier noch mal einen groben Überblick. 
+Um es euch besser vorzustellen, hier noch einmal der Strukturelle Überblick, wie ein Dokument aufgebaut ist. 
 ```latex {1-3}
 % <Preamble>
 % Hier wird die Dokumentenklasse, 
@@ -16,7 +15,7 @@ Um es euch besser vorzustellen. hier noch mal einen groben Überblick.
 \end{document}
 ```
 :::tip Hinweis
-Alles was in der Preamble steht wird nicht dargestellt. In ihr wird alles festgelet, was später verwendet wird. 
+Als kleine Eselsbrücke, alles was in der Preamble steht wird nicht dargestellt. In ihr wird alles eingestellt oder definiert, was später verwendet wird. 
 :::
 ## 🗃 Dokumentklasse
 Die Dokuementenklasse kann man als Vorlage verstehen. Hier rin ist alles beschrieben. Von Schriftart bis hin zum Seitenlayout. 
@@ -58,3 +57,6 @@ Manche Packete haben Funktionen die man auf rufen kann. Wie und wann man die Fun
 Grundsätzlich ist der Ablauf genau so wie bei den zwei Befehlen die ich euch schon gezeigt habe. Um einen Funktion/Befehl auf zurufen, nutzt mann immer `\`. Anschließend kommt dann der Name der Funktion/Befehl.
 
 Packete unterscheiden sich in der Anwendung grundsätzlich, daher nochmal der Hinweis schaut euch immer die Dokuementation zu den jeweiligen Packeten durch die ihr verwenden möchtet.
+
+## 📑 Dokumentinhalt
+Wie der Inhalt erstellt wird, wird euch auf den nächsten Seiten gezeigt.

@@ -85,9 +85,10 @@ const config = {
             label: 'Vorlagen',
           },
           {to: '/formelsammlung', label: 'Formelsammlung', position: 'left'},
+          {to: '/contact', label: 'Kontakt', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/wechlertj',
             label: 'GitHub',
             position: 'right',
           },
@@ -95,6 +96,13 @@ const config = {
       },
       footer: {
         style: 'dark',
+        // logo: {
+        //   alt: 'Facebook Open Source Logo',
+        //   src: 'img/oss_logo.png',
+        //   href: 'https://opensource.facebook.com',
+        //   width: 160,
+        //   height: 51,
+        // },
         links: [
           {
             title: 'LaTeX',
@@ -117,17 +125,21 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                 label: 'Kontakt',
+                  href: '/contact',
               },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+          //     {
+          //       label: 'Youtube',
+          //        href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+          //     },
+          //     {
+          //       label: 'Instagram',
+          //        href: 'https://discordapp.com/invite/docusaurus',
+          //     },
+          //     {
+          //       label: 'Website',
+          //       href: 'https://twitter.com/docusaurus',
+          //     },
             ],
           },
           {
@@ -139,8 +151,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/wechlertj',
               },
+              {
+                label: 'Website',
+                href:'a'
+              }
             ],
           },
         ],

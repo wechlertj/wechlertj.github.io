@@ -121,13 +121,13 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
+  "/contact/-b95": {
+    "component": "component---site-src-pages-contact-index-tsx-283-00c",
+    "config": "config---contact-5-e-9-544"
+  },
   "/formelsammlung/-328": {
     "component": "component---site-src-pages-formelsammlung-index-tsxd-1-f-25d",
-    "config": "config---formelsammlung-5-e-9-bde"
-  },
-  "/formelsammlung/%5Bid%5D-e8f": {
-    "component": "component---site-src-pages-formelsammlung-id-tsx-320-959",
-    "config": "config---formelsammlung-5-e-9-bde"
+    "config": "config---contact-5-e-9-544"
   },
   "/markdown-page-be1": {
     "component": "component---theme-mdx-page-1-f-3-b90",
@@ -351,6 +351,6 @@
   },
   "/-f49": {
     "component": "component---site-src-pages-index-tsx-1-df-d3e",
-    "config": "config---formelsammlung-5-e-9-bde"
+    "config": "config---contact-5-e-9-544"
   }
 }

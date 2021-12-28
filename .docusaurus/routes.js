@@ -94,13 +94,13 @@ export default [
     exact: true
   },
   {
-    path: '/formelsammlung/',
-    component: ComponentCreator('/formelsammlung/','328'),
+    path: '/contact/',
+    component: ComponentCreator('/contact/','b95'),
     exact: true
   },
   {
-    path: '/formelsammlung/%5Bid%5D',
-    component: ComponentCreator('/formelsammlung/%5Bid%5D','e8f'),
+    path: '/formelsammlung/',
+    component: ComponentCreator('/formelsammlung/','328'),
     exact: true
   },
   {

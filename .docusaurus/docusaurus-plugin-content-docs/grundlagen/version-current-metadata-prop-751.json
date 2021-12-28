@@ -158,7 +158,7 @@
     "dateistruktur": {
       "id": "dateistruktur",
       "title": "Dateistruktur",
-      "description": "Die Preamble ist der Bereich, des LaTeX-Dokuments, der vor dem Befehl \\begin sich befindet.",
+      "description": "Ein LaTeX-Dokuement ist in zwei Bereiche unterteilt. Zum einen gibt es den bereich in dem alles konfiguriert dieser Berich nennt sich Preamble. Zum anderen gibt es den Bereich, in dem der Inhalt des Dokuments festgehalten wird.",
       "sidebar": "grundlagen"
     },
     "dokument_struktur": {

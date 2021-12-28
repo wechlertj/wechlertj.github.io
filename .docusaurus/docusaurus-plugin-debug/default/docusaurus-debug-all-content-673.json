@@ -64,7 +64,7 @@
               "unversionedId": "dateistruktur",
               "id": "dateistruktur",
               "title": "Dateistruktur",
-              "description": "Die Preamble ist der Bereich, des LaTeX-Dokuments, der vor dem Befehl \\begin sich befindet.",
+              "description": "Ein LaTeX-Dokuement ist in zwei Bereiche unterteilt. Zum einen gibt es den bereich in dem alles konfiguriert dieser Berich nennt sich Preamble. Zum anderen gibt es den Bereich, in dem der Inhalt des Dokuments festgehalten wird.",
               "source": "@site/latex/grundlagen/dateistruktur.mdx",
               "sourceDirName": ".",
               "slug": "/dateistruktur",
@@ -1156,18 +1156,11 @@
             "truncated": false,
             "authors": [
               {
-                "name": "Sébastien Lorber",
-                "title": "Docusaurus maintainer",
-                "url": "https://sebastienlorber.com",
-                "imageURL": "https://github.com/slorber.png",
-                "key": "slorber"
-              },
-              {
-                "name": "Yangshun Tay",
-                "title": "Front End Engineer @ Facebook",
-                "url": "https://github.com/yangshun",
-                "imageURL": "https://github.com/yangshun.png",
-                "key": "yangshun"
+                "name": "Tim-Jonas Wechler",
+                "title": "Student B.sc. Angewandte Physik",
+                "url": "https://github.com/wechlertj",
+                "imageURL": "https://github.com/wechlertj.png",
+                "key": "tj"
               }
             ],
             "nextItem": {
@@ -1197,11 +1190,11 @@
             "truncated": false,
             "authors": [
               {
-                "name": "Sébastien Lorber",
-                "title": "Docusaurus maintainer",
-                "url": "https://sebastienlorber.com",
-                "imageURL": "https://github.com/slorber.png",
-                "key": "slorber"
+                "name": "Tim-Jonas Wechler",
+                "title": "Student B.sc. Angewandte Physik",
+                "url": "https://github.com/wechlertj",
+                "imageURL": "https://github.com/wechlertj.png",
+                "key": "tj"
               }
             ],
             "prevItem": {
@@ -1239,11 +1232,11 @@
             "truncated": true,
             "authors": [
               {
-                "name": "Endilie Yacop Sucipto",
-                "title": "Maintainer of Docusaurus",
-                "url": "https://github.com/endiliey",
-                "imageURL": "https://github.com/endiliey.png",
-                "key": "endi"
+                "name": "Tim-Jonas Wechler",
+                "title": "Student B.sc. Angewandte Physik",
+                "url": "https://github.com/wechlertj",
+                "imageURL": "https://github.com/wechlertj.png",
+                "key": "tj"
               }
             ],
             "prevItem": {
@@ -1368,8 +1361,8 @@
       },
       {
         "type": "jsx",
-        "permalink": "/formelsammlung/%5Bid%5D",
-        "source": "@site/src/pages/formelsammlung/[id].tsx"
+        "permalink": "/contact/",
+        "source": "@site/src/pages/contact/index.tsx"
       },
       {
         "type": "jsx",

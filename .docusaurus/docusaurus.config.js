@@ -73,12 +73,17 @@ export default {
           "position": "left"
         },
         {
+          "to": "/contact",
+          "label": "Kontakt",
+          "position": "left"
+        },
+        {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/wechlertj",
           "label": "GitHub",
           "position": "right"
         }
@@ -109,16 +114,8 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "Kontakt",
+              "href": "/contact"
             }
           ]
         },
@@ -131,7 +128,11 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/wechlertj"
+            },
+            {
+              "label": "Website",
+              "href": "a"
             }
           ]
         }
